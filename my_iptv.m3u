@@ -1223,7 +1223,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Create & Craft" tvg-logo="https://www.createandcraft.com/gb/common/images/brand-shop/about-us/logo.png" group-title="DOCUMENTARY", Create & Craft
 https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8?fluxustv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Diccovary" tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="DOCUMENTARY", Diccovary
-http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/126097
+http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovary HD Hindi" tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="DOCUMENTARY", Discovary HD Hindi
 http://185.8.176.227:25461/strtester/ap8s9ndf709a8/57
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Asia" tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY", Discovery Asia
