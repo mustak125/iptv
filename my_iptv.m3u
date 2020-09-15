@@ -431,7 +431,7 @@ http://103.135.208.14:80/ibox/bd/50
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="HINDI ENT.", Star Plus
 http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="HINDI ENT.", Star Plus
-https://load.airtel.tv/starplus/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+http://185.8.176.227:25461/strtester/ap8s9ndf709a8/28
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus HD" tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="HINDI ENT.", Star Plus HD
 http://195.181.169.129/StarPlusASIA-Hin/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="HINDI ENT.", STAR PLUS HD
