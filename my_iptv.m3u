@@ -455,7 +455,7 @@ http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54230
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Smile" tvg-logo="https://i.imgur.com/ms8e4DW.jpg" group-title="HINDI ENT.", Zee Smile
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Smile" tvg-logo="https://i.imgur.com/ms8e4DW.jpg" group-title="HINDI ENT.", Zee Smile
-http://tv.flametv.design/zeee.m3u8?c=smileusa&e=.m3u8
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/smileusa/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee TV CANADA" tvg-logo="https://i.imgur.com/lyT75II.jpg" group-title="HINDI ENT.", Zee TV CANADA
 http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV HD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV HD
