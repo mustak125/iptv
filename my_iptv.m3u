@@ -261,7 +261,7 @@ http://103.205.133.44:1935/live/somoy/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV [BD]" tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BANGLA", SOMOY TV [BD]
 http://45.249.187.238:8081/hls/hdmi2.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Aath [IN]" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA", Sony Aath [IN]
-https://load.airtel.tv/sonyaath/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/325
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Aath HD [IN]" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA", Sony Aath HD [IN]
 http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
 #EXTINF: -1 tvg-name="Star Jalsa HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA", Star Jalsa HD
@@ -803,7 +803,7 @@ http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54046
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="STAR WORLD HD [UAE]" tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="ENGLISH ENT.", STAR WORLD HD [UAE]
 http://mag.123tv.to:8080/Daananavisis/ixXIWrgFBZ/9259
 #EXTINF: -1 tvg-name="Star World Premier" group-title="ENGLISH ENT.", Star World Premier
-http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63549
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/23
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TBN Asia" tvg-logo="https://i.imgur.com/l1ItE8H.png" group-title="ENGLISH ENT.", TBN Asia
 http://45.126.83.51/qwr9ew/s/s39/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TRT World" tvg-logo="https://i.imgur.com/YWceLs7.png" group-title="ENGLISH ENT.", TRT World
@@ -939,11 +939,11 @@ http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54057
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES", Star Movies
 http://43.230.123.21:8080/live/star-movies.m3u8
 #EXTINF: -1 tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="ENGLISH MOVIES", Star Movies HD
-http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54045
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/22
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Movies HD [IN]" tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="ENGLISH MOVIES", Star Movies HD [IN]
 http://45.249.187.238:8081/hls/tsl-4.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/Jl8gccd.jpg" group-title="ENGLISH MOVIES", Star Movies Select HD
-http://103.214.202.218:8081/live/starsports1/chunks.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/24
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/Jl8gccd.jpg" group-title="ENGLISH MOVIES", Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF: -1 tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/Jl8gccd.jpg" group-title="ENGLISH MOVIES", Star Movies Select HD
