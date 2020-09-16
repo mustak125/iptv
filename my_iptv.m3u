@@ -445,7 +445,7 @@ https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="The Q India" tvg-logo="https://i.imgur.com/ETVpGyf.png" group-title="HINDI ENT.", The Q India
 https://amg1-i.akamaihd.net/hls/live/784034/Q001/playlist.m3u8?__nn__=5606168722001&hdnea=st=1566232200~exp=1566235800~acl=/hls/live/784034/Q001/*~hmac=4de929fdc0ee53199a11237ee75a695383a82a42623fa92c1376493e5fc91d7b
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="UTV HD" group-title="HINDI ENT.", UTV HD
-http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63339
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/76
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Anmol" tvg-logo="https://i.imgur.com/BZtBXQR.png" group-title="HINDI ENT.", Zee Anmol
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/879
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Anmol" tvg-logo="https://i.imgur.com/BZtBXQR.png" group-title="HINDI ENT.", Zee Anmol
@@ -1287,7 +1287,7 @@ http://45.126.83.51/uq2663/h/h28/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Living Foodz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Living-foodz-logo.jpg/200px-Living-foodz-logo.jpg" group-title="DOCUMENTARY", Living Foodz
 http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-name="Living Foodz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Living-foodz-logo.jpg/200px-Living-foodz-logo.jpg" group-title="DOCUMENTARY", Living Foodz
-http://stariptv.top:2086/00/00/20487
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/84
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/250px-NASA_TV.svg.png" group-title="DOCUMENTARY", NASA TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="https://i.imgur.com/4duWidg.png" group-title="DOCUMENTARY", Nat Geo
