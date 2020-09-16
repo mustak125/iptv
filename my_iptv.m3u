@@ -417,7 +417,7 @@ http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54062
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Sab HD" tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.", Sony Sab HD
 https://load.airtel.tv/sonysab/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Wah" tvg-logo="https://s4.gifyu.com/images/image48139d60b1c93448.png" group-title="HINDI ENT.", Sony Wah
-http://216.144.250.174/Sony_MIx_HD/tracks-v1a1/mono.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/180
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY WAH" tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="HINDI ENT.", SONY WAH
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Baharat HD" group-title="HINDI ENT.", Star Baharat HD
@@ -1529,7 +1529,7 @@ http://robi.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Music" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" group-title="MUSIC", B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Music" tvg-logo="https://i.imgur.com/XooMA08.jpg" group-title="MUSIC", B4U Music
-http://103.141.66.36/bpk-tv/10282/default/index.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/208
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Balle Balle" tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="MUSIC", Balle Balle
 https://live.wmncdn.net/balleballe/dfe65ad07232e060b007d2483602c06a.sdp/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BINDASS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png" group-title="MUSIC", BINDASS
@@ -1661,7 +1661,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zeta TV HD" tvg-logo="https://i.imgur.com/R3vJb1z.png" group-title="MUSIC", Zeta TV HD
 http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zing" tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="MUSIC", Zing
-http://robi.iptv.digijadoo.net/live/zing/chunks.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/214
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zing" tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="MUSIC", Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zoom" tvg-logo="https://i.imgur.com/OckuFU2.png" group-title="MUSIC", Zoom
