@@ -421,7 +421,7 @@ http://216.144.250.174/Sony_MIx_HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY WAH" tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="HINDI ENT.", SONY WAH
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Baharat HD" group-title="HINDI ENT.", Star Baharat HD
-http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63484
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/4
 #EXTINF: -1 tvg-name="Star Baharat HD" group-title="HINDI ENT.", Star Baharat HD
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54225
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Bharat" tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="HINDI ENT.", Star Bharat
@@ -983,7 +983,7 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Disney XD" tvg-logo="https://i.imgur.com/Sw1rCgm.png" group-title="KIDS", Disney XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hungama" tvg-logo="https://i.imgur.com/M3GFtld.png" group-title="KIDS", Hungama
-http://202.163.117.6:9981/stream/channelid/1357890196
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/909
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="KIDS", MBC 3
 https://shls-mbc3-prod.shahid.net/mbc3-prod_2.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="KIDS", Nick
