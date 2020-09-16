@@ -110,7 +110,7 @@ http://103.205.133.14/hls/deeptotv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="BANGLA", Desh TV
 http://103.205.133.14/hls/deshtv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="BANGLA", Desh TV
-http://robi.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Deshe Bideshe [BD]" tvg-logo="https://i.imgur.com/lGoxDN6.jpg" group-title="BANGLA", Deshe Bideshe [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Deshi IPTV [BD]" tvg-logo="https://i.imgur.com/XGMriCQ.png" group-title="BANGLA", Deshi IPTV [BD]
@@ -301,7 +301,7 @@ http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54020
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla SD [IN]" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla SD [IN]
 http://103.205.133.44:1935/live/zeebangla/playlist.m3u8
 #EXTINF: -1 tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla
-http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
+http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
