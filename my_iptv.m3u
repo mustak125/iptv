@@ -935,7 +935,7 @@ http://103.194.169.115:25461/1E5mc4ZUha/5TTeiw5UAL/54057?play_token=eyiNZ5SJw0&t
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="ENGLISH MOVIES", Sony Pix
 http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pix HD" tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="ENGLISH MOVIES", Sony Pix HD
-http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54057
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/74
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES", Star Movies
 http://43.230.123.21:8080/live/star-movies.m3u8
 #EXTINF: -1 tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="ENGLISH MOVIES", Star Movies HD
@@ -1595,7 +1595,7 @@ http://robi.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MTV Beats (2)" tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="MUSIC", MTV Beats (2)
 http://103.135.208.14:80/ibox/bd/131
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Mtv India" tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC", Mtv India
-http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54001
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/72
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MTV India" tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC", MTV India
 http://103.141.66.36/bpk-tv/10110/default/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MUSIC 24" tvg-logo="https://i.imgur.com/gZ7ITKi.png" group-title="MUSIC", MUSIC 24
