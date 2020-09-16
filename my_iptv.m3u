@@ -629,7 +629,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/34
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/17109
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sameroo" tvg-logo="https://i.imgur.com/bClqIpU.png" group-title="HINDI MOVIES", Sameroo
 http://103.141.66.36/bpk-tv/10313/default/manifest.mpd?=.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/I8z4JXN.jpg" group-title="ENGLISH MOVIES",Hollywood TV (1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I8z4JXN.jpg" group-title="ENGLISH MOVIES",Hollywood TV (1)
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky Cinema Man HD
 http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/239
@@ -877,7 +877,7 @@ http://rstr0.teamnetwork.co/stream179/stream.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="ENGLISH MOVIES", HBO HD
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/5699
-#EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://i.imgur.com/p5doERm.png",HBO Family
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.imgur.com/p5doERm.png",HBO Family
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hits (1)" tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="ENGLISH MOVIES", Hits (1)
 http://103.47.132.165/PLTV/88888888/224/3221227329/1.m3u8
