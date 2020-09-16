@@ -409,7 +409,7 @@ http://iptv.mirrorace.net/?channelid=474
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY PAL" tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="HINDI ENT.", SONY PAL
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/323
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony SAB" tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.", Sony SAB
-http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Sab" tvg-logo="https://i.imgur.com/VjlrjwQ.jpg" group-title="HINDI ENT.", Sony Sab
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/105
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY SAB" tvg-logo="https://i.imgur.com/VjlrjwQ.jpg" group-title="HINDI ENT.", SONY SAB
