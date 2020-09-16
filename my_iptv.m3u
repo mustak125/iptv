@@ -659,7 +659,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/61
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="UTV Action" group-title="HINDI MOVIES", UTV Action
 http://45.249.187.238:8081/hls/tsl-7.m3u8
 #EXTINF: -1 tvg-name="Utv Movie" group-title="HINDI MOVIES", Utv Movie
-http://line.hi-ott.net/r3bel757978771tr4h/qFSpcLgHlGfIJCf/112883
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/148
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Wow Cinema" tvg-logo="https://s6.gifyu.com/images/imageb2e3492b1ceca602.png" group-title="HINDI MOVIES", Wow Cinema
 http://103.205.133.19/hls/wowcinema.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WoW CINEMA" tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="HINDI MOVIES", WoW CINEMA
@@ -977,9 +977,9 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/139
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://i.imgur.com/XPBl26M.png" group-title="KIDS", Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Disney channel" tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="KIDS", Disney channel
-http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/132
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Disney Junior India" tvg-logo="https://i.imgur.com/l7GkOGS.png" group-title="KIDS", Disney Junior India
-http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.com
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/149
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Disney XD" tvg-logo="https://i.imgur.com/Sw1rCgm.png" group-title="KIDS", Disney XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hungama" tvg-logo="https://i.imgur.com/M3GFtld.png" group-title="KIDS", Hungama
@@ -1533,7 +1533,7 @@ http://103.141.66.36/bpk-tv/10282/default/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Balle Balle" tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="MUSIC", Balle Balle
 https://live.wmncdn.net/balleballe/dfe65ad07232e060b007d2483602c06a.sdp/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BINDASS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png" group-title="MUSIC", BINDASS
-http://45.120.188.65:8080/0.ts
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/147
 #EXTINF: -1 tvg-name="Bindass" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png" group-title="MUSIC", Bindass
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/1059
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Boogle Bollywood" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="MUSIC", Boogle Bollywood
@@ -1591,7 +1591,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC", MTV
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MTV Beats (1)" tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="MUSIC", MTV Beats (1)
-http://robi.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/146
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MTV Beats (2)" tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="MUSIC", MTV Beats (2)
 http://103.135.208.14:80/ibox/bd/131
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Mtv India" tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC", Mtv India
