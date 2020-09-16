@@ -340,7 +340,7 @@ http://185.8.176.227:25461/strtester/ap8s9ndf709a8/27
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Rishtey" tvg-logo="https://i.imgur.com/NF7kDmc.png" group-title="HINDI ENT.", Colors Rishtey
 http://iptv.mirrorace.net/?channelid=279
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="COLORS RISHTEY" tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="HINDI ENT.", COLORS RISHTEY
-http://103.135.208.14:80/ibox/bd/128
+http://randomserver.site:2086/Bria/Bria/94683
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dabaang" tvg-logo="https://i.imgur.com/wXSRiun.jpg" group-title="HINDI ENT.", Dabaang
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DD Panjabi" tvg-logo="https://i.imgur.com/XK8MrA6.jpg" group-title="HINDI ENT.", DD Panjabi
@@ -428,7 +428,7 @@ http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54225
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Bharat" tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="HINDI ENT.", Star Bharat
 http://103.205.133.19/hls/starbharat.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Bharat" tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="HINDI ENT.", Star Bharat
-http://103.135.208.14:80/ibox/bd/50
+http://randomserver.site:2086/Bria/Bria/94673
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="HINDI ENT.", Star Plus
 http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="HINDI ENT.", Star Plus
@@ -657,11 +657,11 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/329
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold 2" tvg-logo="https://s4.gifyu.com/images/image43c0e0062d57475e.png" group-title="HINDI MOVIES", Star Gold 2
 http://45.249.187.238:8081/hls/tsl-6.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold HD
-http://103.135.208.14:80/ibox/bd/40
+http://randomserver.site:2086/Bria/Bria/94728
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold International" tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES", Star Gold International
-http://robi.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+http://randomserver.site:2086/Bria/Bria/94663
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold International" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold International
 https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold Select HD" group-title="HINDI MOVIES", Star Gold Select HD
