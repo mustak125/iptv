@@ -577,7 +577,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/914
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="HINDI MOVIES", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Movies" tvg-logo="https://i.imgur.com/MhSG4sc.png" group-title="HINDI MOVIES", B4U Movies
-http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63424
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/45
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Movies" tvg-logo="https://i.imgur.com/l47sxUe.jpg" group-title="HINDI MOVIES", B4U Movies
 http://iptv.kitv.live:1935/live/Shari/MTV-P/36.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV Kadak" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/BTV-KADAK.jpg" group-title="HINDI MOVIES",BTV Kadak
@@ -602,8 +602,8 @@ http://31.14.40.58:8080/GEMINIMOVIES_h264/index.m3u8
 http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Housefull Movies" group-title="HINDI MOVIES", Housefull Movies
 https://streamitv.multitvsolution.in/idvo/housefullmovies.m3u8
-#EXTINF: -1 tvg-name="Housefull Movies" group-title="HINDI MOVIES", Housefull Movies
-http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63381
+#EXTINF: -1 tvg-name="Cine Active" group-title="HINDI MOVIES", Cine Active
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/58
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Kairali Movies" tvg-logo="https://i.imgur.com/J7Oevxk.png" group-title="HINDI MOVIES", Kairali Movies
 http://103.141.66.36/bpk-tv/10286/default/manifest.mpd?=.m3u8
 #EXTINF: -1 tvg-name="Maa Movies" group-title="HINDI MOVIES", Maa Movies
@@ -703,7 +703,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="&f lix HD" tvg-logo="https://dreamdth.com/wp-content/uploads/2019/09/xplor-HD.jpg" group-title="ENGLISH ENT.", & flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH ENT.", & Flix HD
-http://103.135.208.14:80/ibox/bd/125
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/54
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Prive HD (1)" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="ENGLISH ENT.", & Prive HD (1)
 http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Prive HD (2)" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="ENGLISH ENT.", & Prive HD (2)
