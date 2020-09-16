@@ -325,7 +325,8 @@ http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/99771
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Big Ganga" tvg-logo="https://i.imgur.com/OLe9k13.jpg" group-title="HINDI ENT.", Big Ganga
 http://z5amshls.akamaized.net/bigganga/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Big Magic" tvg-logo="https://i.imgur.com/RKsiCJ2.jpg" group-title="HINDI ENT.", Big Magic
-http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63399
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/378
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Big Magic" tvg-logo="https://i.imgur.com/RKsiCJ2.jpg" group-title="HINDI ENT.", Big Magic
 http://z5amshls.akamaized.net/bigmagic/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="COLORS" tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="HINDI ENT.", COLORS
@@ -604,8 +605,9 @@ http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u
 https://streamitv.multitvsolution.in/idvo/housefullmovies.m3u8
 #EXTINF: -1 tvg-name="Cine Active" group-title="HINDI MOVIES", Cine Active
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/58
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Kairali Movies" tvg-logo="https://i.imgur.com/J7Oevxk.png" group-title="HINDI MOVIES", Kairali Movies
-http://103.141.66.36/bpk-tv/10286/default/manifest.mpd?=.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgu" group-title="HINDI MOVIES", Bhojpuri Cinema
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/404
+
 #EXTINF: -1 tvg-name="Maa Movies" group-title="HINDI MOVIES", Maa Movies
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54143
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Maha Movie" tvg-logo="https://i.imgur.com/fAYvAQK.png" group-title="HINDI MOVIES", Maha Movie
@@ -626,15 +628,15 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/34
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/17109
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sameroo" tvg-logo="https://i.imgur.com/bClqIpU.png" group-title="HINDI MOVIES", Sameroo
 http://103.141.66.36/bpk-tv/10313/default/manifest.mpd?=.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/I8z4JXN.jpg" group-title="WORLD MOVIES",Hollywood TV (1)
+EXTINF:-1 tvg-logo="https://i.imgur.com/I8z4JXN.jpg" group-title="ENGLISH MOVIES",Hollywood TV (1)
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="WORLD MOVIES",Sky Cinema Man HD
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky Cinema Man HD
 http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/239
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="WORLD MOVIES",Sky Cinema Thriller HD
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky Cinema Thriller HD
 http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/241
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="WORLD MOVIES",Sky cinema Premier HD
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky cinema Premier HD
 http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/234
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="WORLD MOVIES",Sky Cinema Hits HD
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky Cinema Hits HD
 http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/235
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max
 http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
@@ -1023,7 +1025,8 @@ http://robi.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONIC" tvg-logo="https://i.imgur.com/94NoKFn.jpg" group-title="KIDS", SONIC
 http://103.135.208.14:80/ibox/bd/58
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Yay" tvg-logo="https://i.imgur.com/msoABHA.jpg" group-title="KIDS", Sony Yay
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/303
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Yay" tvg-logo="https://i.imgur.com/msoABHA.jpg" group-title="KIDS", Sony Yay
 http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SPACETOON KIDS" tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="KIDS", SPACETOON KIDS
@@ -1257,7 +1260,8 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playl
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FOOD FOOD" tvg-logo="https://i.imgur.com/y6uwpBZ.jpg" group-title="DOCUMENTARY", FOOD FOOD
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/2387
 #EXTINF: -1 tvg-name="Food Food" tvg-logo="https://i.imgur.com/y6uwpBZ.jpg" group-title="DOCUMENTARY", Food Food
-https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/329
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="DOCUMENTARY", Food Network
 http://ott-cdn.ucom.am/s18/index.m3u8
 #EXTINF: -1 tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="DOCUMENTARY", Food Network
