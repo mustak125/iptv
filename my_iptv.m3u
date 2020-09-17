@@ -630,20 +630,11 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/34
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/17109
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sameroo" tvg-logo="https://i.imgur.com/bClqIpU.png" group-title="HINDI MOVIES", Sameroo
 http://103.141.66.36/bpk-tv/10313/default/manifest.mpd?=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I8z4JXN.jpg" group-title="ENGLISH MOVIES",Hollywood TV (1)
-http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky Cinema Man HD
-http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/239
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky Cinema Thriller HD
-http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/241
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky cinema Premier HD
-http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/234
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky Cinema Hits HD
-http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/235
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max
 http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max
-http://216.144.250.174/Sony_Max_HD/tracks-v1a1/mono.m3u8
+http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max HD
@@ -886,6 +877,14 @@ http://103.47.132.165/PLTV/88888888/224/3221227329/1.m3u8
 http://45.126.83.51/uq2663/h/h37/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hollywood TV" tvg-logo="https://i.imgur.com/I8z4JXN.jpg" group-title="ENGLISH MOVIES", Hollywood TV
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky Cinema Man HD
+http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/239
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky Cinema Thriller HD
+http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/241
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky cinema Premier HD
+http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/234
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky Cinema Hits HD
+http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/235
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ifilm" tvg-logo="https://i.imgur.com/GsJ0Nw3.jpg" group-title="ENGLISH MOVIES", Ifilm
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
 #EXTINF: -1 tvg-name="KIX" tvg-logo="https://i.imgur.com/xr6RwMC.png" group-title="ENGLISH MOVIES", KIX
