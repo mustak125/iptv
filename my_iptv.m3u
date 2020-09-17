@@ -398,13 +398,14 @@ https://load.airtel.tv/rajtv/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Shemaroo" tvg-logo="https://i.imgur.com/wOYB1nb.png" group-title="HINDI ENT.", Shemaroo
 https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony" tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.", sony
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/1
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony 1" tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.", Sony 1
-http://216.144.250.174/Sony_TV_HD_o2/tracks-v1a1/mono.m3u8
+http://103.214.202.218:8081/live/sony-40/playlist.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony 1" tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.", Sony
+http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony HD" tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="HINDI ENT.", Sony HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY HD" tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="HINDI ENT.", SONY HD
-http://ccn.anytv.live:8080/sony/track-v1a1/mono.m3u8
+
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/1
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pal" tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="HINDI ENT.", Sony Pal
 http://iptv.mirrorace.net/?channelid=474
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY PAL" tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="HINDI ENT.", SONY PAL
