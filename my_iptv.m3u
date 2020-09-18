@@ -259,7 +259,7 @@ http://45.77.242.60/live/sobujbangla/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV [BD]" tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BANGLA", SOMOY TV [BD]
 http://103.205.133.44:1935/live/somoy/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV [BD]" tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BANGLA", SOMOY TV [BD]
-http://45.249.187.238:8081/hls/hdmi2.m3u8
+http://103.214.202.218:8081/live/somoy/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Aath [IN]" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA", Sony Aath [IN]
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/325
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Aath HD [IN]" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA", Sony Aath HD [IN]
@@ -307,7 +307,7 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
 http://103.49.168.172:8081/ebox/in_and_tv_hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Tv HD" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & Tv HD
-http://45.249.187.238:8081/hls/tsl-5.m3u8
+http://45.249.187.238:8081/hls/tsl-6.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV HD" tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="HINDI ENT.", & TV HD
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54089
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ACV Utsav" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvutsaav.png" group-title="HINDI ENT.", ACV Utsav
@@ -647,7 +647,7 @@ https://load.airtel.tv/sonymax2/smil:common.smil/chunklist_b896000_DVR_sleng.m3u
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/329
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold 2" tvg-logo="https://s4.gifyu.com/images/image43c0e0062d57475e.png" group-title="HINDI MOVIES", Star Gold 2
-http://45.249.187.238:8081/hls/tsl-6.m3u8
+http://45.249.187.238:8081/hls/tsl-1.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold HD
 http://randomserver.site:2086/Bria/Bria/94728
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold HD
