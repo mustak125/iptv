@@ -856,7 +856,7 @@ http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/7240
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Film 4" tvg-logo="https://i.imgur.com/5FgT60n.png" group-title="ENGLISH MOVIES", Film 4
 http://51.52.156.22:8888/http/008
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox Action  Movie" tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="ENGLISH MOVIES", Fox Action  Movie
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+http://live4.ocnttv.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FOX Action Movies (2)" tvg-logo="https://i.imgur.com/W8ZLWCE.png" group-title="ENGLISH MOVIES", FOX Action Movies (2)
 http://103.135.208.14:80/live/ibox/bd/136.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox Movie" tvg-logo="https://i.imgur.com/EE9z3QX.jpg" group-title="ENGLISH MOVIES", Fox Movie
@@ -876,7 +876,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227329/1.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hits (2)" tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="ENGLISH MOVIES", Hits (2)
 http://45.126.83.51/uq2663/h/h37/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hollywood TV" tvg-logo="https://i.imgur.com/I8z4JXN.jpg" group-title="ENGLISH MOVIES", Hollywood TV
-http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+http://live4.ocnttv.com:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky Cinema Man HD
 http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/239
 #EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky Cinema Thriller HD
