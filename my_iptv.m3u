@@ -468,7 +468,7 @@ http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV SD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV SD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/28.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV SD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV SD
-http://45.249.187.238:8081/hls/tsl-1.m3u8
+http://45.249.187.238:8081/hls/tsl-5.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Aaj Entertainment" tvg-logo="https://i.imgur.com/OA762pM.png" group-title="PAK ENT.", Aaj Entertainment
 https://playlive.goonj.pk/aajentweb_360p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Aplus" tvg-logo="https://i.imgur.com/HXLqT5G.jpg" group-title="PAK ENT.", Aplus
@@ -892,7 +892,7 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="KIX HD" tvg-logo="https://i.imgur.com/xr6RwMC.png" group-title="ENGLISH MOVIES", KIX HD
 https://chama.ml/channelgratisan-KIX
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="LOTUS MACAU" tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="ENGLISH MOVIES", LOTUS MACAU
-http://robi.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+http://45.249.187.238:8081/hls/new24.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="LOTUS MACAU" tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="ENGLISH MOVIES", LOTUS MACAU
 http://103.135.208.14:80/ibox/bd/69
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MBC 2 FHD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="ENGLISH MOVIES", MBC 2 FHD
