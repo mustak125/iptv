@@ -48,7 +48,7 @@ https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bangla TV" tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA", Bangla TV
 http://103.205.133.14/hls/banglatv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BANGLA TV HD [BD]" tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="BANGLA", BANGLA TV HD [BD]
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgizQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BANGLA VISION [BD]" tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA", BANGLA VISION [BD]
 http://103.205.133.14/hls/banglavision.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA", Banglavision
@@ -1041,21 +1041,22 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/Famil
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Tom & Jerry Show" tvg-logo="https://i.imgur.com/6sbsbHc.png" group-title="KIDS", Tom & Jerry Show
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF: -1 tvg-name="Bein Sport HD 01" group-title="SPORTS", Bein Sport HD 01
-http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33600
 #EXTINF: -1 tvg-name="Bein Sport HD 02" group-title="SPORTS", Bein Sport HD 02
-http://203.150.107.30:8081/tested2iptv/core4/playlist.m3u8
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33601
 #EXTINF: -1 tvg-name="Bein Sport HD 03" group-title="SPORTS", Bein Sport HD 03
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/15935
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33602
 #EXTINF: -1 tvg-name="Bein Sport HD 04" group-title="SPORTS", Bein Sport HD 04
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/15936
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33603
 #EXTINF: -1 tvg-name="Bein Sport HD 05" group-title="SPORTS", Bein Sport HD 05
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/15937
+
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33604
 #EXTINF: -1 tvg-name="Bein Sport HD 06" group-title="SPORTS", Bein Sport HD 06
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/15938
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33605
 #EXTINF: -1 tvg-name="Bein Sport HD 07" group-title="SPORTS", Bein Sport HD 07
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/15939
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33606
 #EXTINF: -1 tvg-name="Bein Sport HD 08" group-title="SPORTS", Bein Sport HD 08
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/15940
+http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33607
 #EXTINF: -1 tvg-name="Bein Sport HD 09" group-title="SPORTS", Bein Sport HD 09
 http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/15941
 #EXTINF: -1 tvg-name="Bein Sport HD 10" group-title="SPORTS", Bein Sport HD 10
