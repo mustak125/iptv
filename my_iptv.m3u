@@ -126,7 +126,7 @@ http://45.249.187.238:8081/hls/new3.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Duronto TV" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="BANGLA", Duronto TV
 http://iptv.kitv.live:1935/live/Shari/MTV-P/63.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="EKATTOR TV [BD]" tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BANGLA", EKATTOR TV [BD]
-http://iptv.kitv.live:1935/live/Shari/MTV-P/2.m3u8
+http://208.86.19.13:81/604.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="EKATTOR TV HD [BD]" tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BANGLA", EKATTOR TV HD [BD]
 http://45.249.187.238:8081/hls/live6.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA", Ekushey TV
@@ -334,7 +334,7 @@ http://103.107.160.20:8081/amrbd/colorshd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors" tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="HINDI ENT.", Colors
 http://103.205.133.44:1935/live/colors/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors HD" tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="HINDI ENT.", Colors HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/2
+http://208.86.19.13:81/605.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="HINDI ENT.", COLORS HD
 http://185.8.176.227:25461/strtester/ap8s9ndf709a8/27
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Rishtey" tvg-logo="https://i.imgur.com/NF7kDmc.png" group-title="HINDI ENT.", Colors Rishtey
@@ -502,7 +502,7 @@ https://playlive.goonj.pk/filmworldweb_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Filmax" tvg-logo="https://i.imgur.com/HKCvQAC.jpg" group-title="PAK ENT.", Filmax
 https://playlive.goonj.pk/filmaxweb_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Geo Entertainment" tvg-logo="https://i.imgur.com/CkJpbom.jpg" group-title="PAK ENT.", Geo Entertainment
-http://playlive.goonj.pk/geoentweb_480p/index.m3u8
+http://208.86.19.13:81/603.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Geo Kahini" tvg-logo="https://i.imgur.com/kR1tW0o.jpg" group-title="PAK ENT.", Geo Kahini
 http://216.144.250.174/Geo_Kahani_HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hum Sitaray" tvg-logo="https://i.imgur.com/O5NUuPl.jpg" group-title="PAK ENT.", Hum Sitaray
