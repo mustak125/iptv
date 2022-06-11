@@ -50,7 +50,7 @@ http://103.205.133.14/hls/banglatv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BANGLA TV HD [BD]" tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="BANGLA", BANGLA TV HD [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgizQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BANGLA VISION [BD]" tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA", BANGLA VISION [BD]
-http://103.205.133.14/hls/banglavision.m3u8
+http://208.86.19.13:81/689.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA", Banglavision
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BIJOY TV [BD]" tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="BANGLA", BIJOY TV [BD]
@@ -70,7 +70,7 @@ http://208.86.19.13:81/627.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BTV WORLD [BD]" tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BANGLA", BTV WORLD [BD]
 http://103.205.133.14/hls/btvworld.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA", Channel 24
-http://103.205.133.14/hls/channel24.m3u8
+http://208.86.19.13:81/687.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24 [BD]" tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="BANGLA", CHANNEL 24 [BD]
 http://103.205.133.44:1935/live/channel24/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 9 [BD]" tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA", CHANNEL 9 [BD]
@@ -172,7 +172,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/59.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="KTV BANGLA IPTV [BD]" tvg-logo="https://i.imgur.com/TRfkhjY.png" group-title="BANGLA", KTV BANGLA IPTV [BD]
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV [BD]" tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BANGLA", MAASRANGA TV [BD]
-http://aklivetv.com:8080/masranga/tracks-v1a1/mono.m3u8
+http://208.86.19.13:81/686.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV HD [BD]" tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BANGLA", MAASRANGA TV HD [BD]
 http://iptv.kitv.live:1935/live/Shari/MTV-P/1.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Madani TV Bangla" tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="BANGLA", Madani TV Bangla
@@ -204,7 +204,7 @@ http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NANDAN IPTV [BD]" tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="BANGLA", NANDAN IPTV [BD]
 http://nandansyst.com/hls/nandan.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="BANGLA", News 24
-http://45.249.187.238:8081/hls/live4.m3u8
+http://208.86.19.13:81/687.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NEWS 24 [BD]" tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="BANGLA", NEWS 24 [BD]
 http://103.205.133.14/hls/news24.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NOKSHI IPTV [BD]" tvg-logo="https://i.imgur.com/CIgayHY.jpg" group-title="BANGLA", NOKSHI IPTV [BD]
