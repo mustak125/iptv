@@ -144,7 +144,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/6.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="GAZI TV HD [BD]" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA", GAZI TV HD [BD]
 http://45.249.187.238:8081/hls/live5.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="BANGLA", Independent
-http://45.249.187.238:8081/hls/hdmi4.m3u8
+http://208.86.19.13:81/601.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="INDEPENDENT TV [BD]" tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BANGLA", INDEPENDENT TV [BD]
 http://iptv.kitv.live:1935/live/Shari/MTV-P/12.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Iqra Bangla TV" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2016/11/iqra001.jpg" group-title="BANGLA", Iqra Bangla TV
