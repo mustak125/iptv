@@ -134,7 +134,7 @@ http://208.86.19.13:81/620.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="EKUSHEY TV [BD]" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA", EKUSHEY TV [BD]
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Enter10 Bangla" group-title="BANGLA", Enter10 Bangla
-http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
+https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="BANGLA", Gaan Bangla
 http://208.86.19.13:81/612.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="BANGLA", Gaan Bangla
@@ -166,7 +166,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Khusboo Bangla [IN]" tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="BANGLA", Khusboo Bangla [IN]
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/108872
 #EXTINF: -1 tvg-name="Khusboo TV" tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="BANGLA", Khusboo TV
-https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
+https://itvoign.multitvsolution.in/idvo/khushboo.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Kolkata TV [IN]" tvg-logo="https://i.imgur.com/ySyvc3o.jpg" group-title="BANGLA", Kolkata TV [IN]
 http://iptv.kitv.live:1935/live/Shari/MTV-P/59.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="KTV BANGLA IPTV [BD]" tvg-logo="https://i.imgur.com/TRfkhjY.png" group-title="BANGLA", KTV BANGLA IPTV [BD]
