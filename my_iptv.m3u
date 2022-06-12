@@ -140,9 +140,9 @@ http://208.86.19.13:81/612.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="BANGLA", Gaan Bangla
 http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="GAZI TV [BD]" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA", GAZI TV [BD]
-http://iptv.kitv.live:1935/live/Shari/MTV-P/6.m3u8
+http://bdiptv.net:8082/gtv/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="GAZI TV HD [BD]" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA", GAZI TV HD [BD]
-http://45.249.187.238:8081/hls/live5.m3u8
+http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="BANGLA", Independent
 http://208.86.19.13:81/601.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="INDEPENDENT TV [BD]" tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BANGLA", INDEPENDENT TV [BD]
