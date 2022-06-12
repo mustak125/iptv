@@ -329,13 +329,13 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/378
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Big Magic" tvg-logo="https://i.imgur.com/RKsiCJ2.jpg" group-title="HINDI ENT.", Big Magic
 http://z5amshls.akamaized.net/bigmagic/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="COLORS" tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="HINDI ENT.", COLORS
-http://103.107.160.20:8081/amrbd/colorshd/chunks.m3u8
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors" tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="HINDI ENT.", Colors
 http://103.205.133.44:1935/live/colors/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors HD" tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="HINDI ENT.", Colors HD
 http://208.86.19.13:81/605.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="HINDI ENT.", COLORS HD
-http://185.8.176.227:25461/strtester/ap8s9ndf709a8/27
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Rishtey" tvg-logo="https://i.imgur.com/NF7kDmc.png" group-title="HINDI ENT.", Colors Rishtey
 http://iptv.mirrorace.net/?channelid=279
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="COLORS RISHTEY" tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="HINDI ENT.", COLORS RISHTEY
@@ -394,6 +394,8 @@ http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/112767
 https://load.airtel.tv/rajdigitalplus/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Raj TV" group-title="HINDI ENT.", Raj TV
 https://load.airtel.tv/rajtv/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#EXTINF:-1  group-title="HINDI ENT" tvg-logo="",SAHARA ONE 
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Shemaroo" tvg-logo="https://i.imgur.com/wOYB1nb.png" group-title="HINDI ENT.", Shemaroo
 https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony" tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.", sony
@@ -403,14 +405,13 @@ http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony HD" tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="HINDI ENT.", Sony HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY HD" tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="HINDI ENT.", SONY HD
-
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/1
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pal" tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="HINDI ENT.", Sony Pal
 http://iptv.mirrorace.net/?channelid=474
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY PAL" tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="HINDI ENT.", SONY PAL
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/323
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony SAB" tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.", Sony SAB
-http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Sab" tvg-logo="https://i.imgur.com/VjlrjwQ.jpg" group-title="HINDI ENT.", Sony Sab
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/105
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY SAB" tvg-logo="https://i.imgur.com/VjlrjwQ.jpg" group-title="HINDI ENT.", SONY SAB
@@ -422,21 +423,21 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/180
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY WAH" tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="HINDI ENT.", SONY WAH
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Baharat HD" group-title="HINDI ENT.", Star Baharat HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/4
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 #EXTINF: -1 tvg-name="Star Baharat HD" group-title="HINDI ENT.", Star Baharat HD
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54225
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Bharat" tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="HINDI ENT.", Star Bharat
-http://103.205.133.19/hls/starbharat.m3u8
+http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Bharat" tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="HINDI ENT.", Star Bharat
 http://randomserver.site:2086/Bria/Bria/94673
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="HINDI ENT.", Star Plus
-http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="HINDI ENT.", Star Plus
 http://185.8.176.227:25461/strtester/ap8s9ndf709a8/28
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus HD" tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="HINDI ENT.", Star Plus HD
 http://208.86.19.13:81/607.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="HINDI ENT.", STAR PLUS HD
-http://185.8.176.227:25461/strtester/ap8s9ndf709a8/29
+http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sun TV" group-title="HINDI ENT.", Sun TV
 https://load.airtel.tv/suntv/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-name="Sun TV" group-title="HINDI ENT.", Sun TV
@@ -463,7 +464,7 @@ http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV HD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV HD
 http://208.86.19.13:81/606.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="HINDI ENT.", Zee TV HD
-http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV SD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV SD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/28.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV SD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV SD
@@ -579,7 +580,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/914
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="HINDI MOVIES", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Movies" tvg-logo="https://i.imgur.com/MhSG4sc.png" group-title="HINDI MOVIES", B4U Movies
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/45
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Movies" tvg-logo="https://i.imgur.com/l47sxUe.jpg" group-title="HINDI MOVIES", B4U Movies
 http://iptv.kitv.live:1935/live/Shari/MTV-P/36.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV Kadak" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/BTV-KADAK.jpg" group-title="HINDI MOVIES",BTV Kadak
@@ -591,9 +592,13 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BOX CINEMA" tvg-logo="https://i.imgur.com/S3lVg3i.jpg?1" group-title="HINDI MOVIES", BOX CINEMA
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Cineplex" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="HINDI MOVIES", Colors Cineplex
-http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63577
+http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Cineplex" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="HINDI MOVIES", Colors Cineplex
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/73
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK (IN)" tvg-logo="" group-title="HINDI MOVIES",DHINCHAAK (IN)
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK 2 (IN)" tvg-logo="" group-title="HINDI MOVIES",DHINCHAAK 2 (IN)
+http://14.199.164.20:4001/play/a0tm/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Enterr 10" tvg-logo="https://i.imgur.com/ZcCbm7a.png" group-title="HINDI MOVIES", Enterr 10
 https://load.airtel.tv/enterr10/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Enterr Ten" tvg-logo="https://s6.gifyu.com/images/image07b289bfcc961244.png" group-title="HINDI MOVIES", Enterr Ten
@@ -639,42 +644,42 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max HD
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54054
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony MAX2 (1)" tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES", Sony MAX2 (1)
-http://216.144.250.174/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony MAX2 (2)" tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES", Sony MAX2 (2)
 https://load.airtel.tv/sonymax2/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold 2" tvg-logo="https://i.imgur.com/e053RWs.png" group-title="HINDI MOVIES", Star Gold 2
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/329
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold 2" tvg-logo="https://s4.gifyu.com/images/image43c0e0062d57475e.png" group-title="HINDI MOVIES", Star Gold 2
 http://45.249.187.238:8081/hls/tsl-1.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold HD
-http://randomserver.site:2086/Bria/Bria/94728
+http://dtvipl.ipq.co:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold International" tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES", Star Gold International
-http://randomserver.site:2086/Bria/Bria/94663
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold International" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold International
 https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold Select HD" group-title="HINDI MOVIES", Star Gold Select HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/13
+http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF: -1 tvg-name="Star Gold Select HD" group-title="HINDI MOVIES", Star Gold Select HD
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Utv Action" group-title="HINDI MOVIES", Utv Action
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/61
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="UTV Action" group-title="HINDI MOVIES", UTV Action
-http://45.249.187.238:8081/hls/tsl-7.m3u8
+http://208.86.19.13:81/723.stream/index.m3u8
 #EXTINF: -1 tvg-name="Utv Movie" group-title="HINDI MOVIES", Utv Movie
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/148
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Wow Cinema" tvg-logo="https://s6.gifyu.com/images/imageb2e3492b1ceca602.png" group-title="HINDI MOVIES", Wow Cinema
 http://103.205.133.19/hls/wowcinema.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WoW CINEMA" tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="HINDI MOVIES", WoW CINEMA
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Action" tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="HINDI MOVIES", Zee Action
-http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/880
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Action" tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="HINDI MOVIES", Zee Action
 http://z5amshls.akamaized.net/action/tracks-v2a1/playlist.m3u8
 #EXTINF: -1 tvg-name="Zee Anmol Movie" group-title="HINDI MOVIES", Zee Anmol Movie
-https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bioscope" tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="HINDI MOVIES", Zee Bioscope
 http://45.126.83.51/qwr9ew/s/s32/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee BIOSKOP" tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="HINDI MOVIES", Zee BIOSKOP
@@ -683,6 +688,8 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/classic/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bollywood" tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="HINDI MOVIES", Zee Bollywood
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/1057
+#EXTINF:-1 tvg-logo=""group-title="HINDI MOVIES",Zee Classic
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", Zee Cinema
 http://robi.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", Zee Cinema
@@ -692,7 +699,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/29.m3u8
 #EXTINF: -1 tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", Zee Cinema
 http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/76.m3u8
 #EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", Zee Cinema HD
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD (1)" tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES", Zee Cinema HD (1)
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54228
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema UK" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", Zee Cinema UK
