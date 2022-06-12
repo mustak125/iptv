@@ -262,7 +262,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Aath [IN]" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA", Sony Aath [IN]
 http://10.16.100.204:8082/hls/s0ny8aat.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Aath HD [IN]" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA", Sony Aath HD [IN]
-http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_aath&q=800&e=.m3u8
 #EXTINF: -1 tvg-name="Star Jalsa HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA", Star Jalsa HD
 http://103.159.4.38:9191/CH24-INBD3/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD [IN]" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA", Star Jalsha HD [IN]
@@ -290,7 +290,7 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee 24 Ghanta [IN]" tvg-logo="https://i.imgur.com/SwcYRy3.png" group-title="BANGLA", Zee 24 Ghanta [IN]
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/108782
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA", Zee Bangla Cinema [IN]
-http://103.159.4.38:9191/CH26-INBD5/tracks-v1a1/mono.m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_Bangla_Cinema&q=1200&e=.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN] (1)" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA", Zee Bangla Cinema [IN] (1)
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD [IN]" tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="BANGLA", Zee Bangla HD [IN]
@@ -298,7 +298,7 @@ http://103.159.4.38:9191/CH23-INBD2/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla HD
 http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla SD [IN]" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla SD [IN]
-http://103.205.133.44:1935/live/zeebangla/playlist.m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_Bangla&q=800&e=.m3u8
 #EXTINF: -1 tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla
 http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
