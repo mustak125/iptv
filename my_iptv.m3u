@@ -576,13 +576,13 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/62
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="And Pictures HD" tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES", And Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="HINDI MOVIES", B4U Kadak
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/914
+http://103.139.171.5:5001/jiotvplus/live.php?c=B4U_Kadak&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="HINDI MOVIES", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Movies" tvg-logo="https://i.imgur.com/MhSG4sc.png" group-title="HINDI MOVIES", B4U Movies
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Movies" tvg-logo="https://i.imgur.com/l47sxUe.jpg" group-title="HINDI MOVIES", B4U Movies
-http://iptv.kitv.live:1935/live/Shari/MTV-P/36.m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c=B4U_Movies&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV Kadak" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/BTV-KADAK.jpg" group-title="HINDI MOVIES",BTV Kadak
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bflix Movies" tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="HINDI MOVIES", Bflix Movies
@@ -594,13 +594,13 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Cineplex" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="HINDI MOVIES", Colors Cineplex
 http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Cineplex" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="HINDI MOVIES", Colors Cineplex
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/73
+http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK (IN)" tvg-logo="" group-title="HINDI MOVIES",DHINCHAAK (IN)
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK 2 (IN)" tvg-logo="" group-title="HINDI MOVIES",DHINCHAAK 2 (IN)
 http://14.199.164.20:4001/play/a0tm/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Enterr 10" tvg-logo="https://i.imgur.com/ZcCbm7a.png" group-title="HINDI MOVIES", Enterr 10
-https://load.airtel.tv/enterr10/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c=Enterr_10&q=1200&e=.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Enterr Ten" tvg-logo="https://s6.gifyu.com/images/image07b289bfcc961244.png" group-title="HINDI MOVIES", Enterr Ten
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/46
 #EXTINF: -1 tvg-name="Gemini Movie" group-title="HINDI MOVIES", Gemini Movie
