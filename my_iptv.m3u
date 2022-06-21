@@ -18,15 +18,9 @@ http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ASIAN TV HD [BD]" tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BANGLA", ASIAN TV HD [BD]
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA", ATN Bangla
-http://208.86.19.13:81/664.stream/index.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN BANGLA [BD]" tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="BANGLA", ATN BANGLA [BD]
 http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN BANGLA [UK]" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/atnbanglauk11.jpg?x91288" group-title="BANGLA", ATN BANGLA [UK]
-http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/live-orgin/atnbanglauk-off.stream/chunks.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN Islam" tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="BANGLA", ATN Islam
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN Islam" tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="BANGLA", ATN Islam
-http://103.214.202.218:8081/live/atnislamictv/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN MUSIC" tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="BANGLA", ATN MUSIC
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN Music [BD]" tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="BANGLA", ATN Music [BD]
@@ -35,8 +29,7 @@ http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://103.205.133.14/hls/atnnews.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN NEWS [BD]" tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="BANGLA", ATN NEWS [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Azan TV" tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="BANGLA", Azan TV
-http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/playlist.m3u8
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bangla 21 IPTV [BD]" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x91288" group-title="BANGLA", Bangla 21 IPTV [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bangla IPTV [BD]" tvg-logo="https://i.imgur.com/bYFH9ra.jpg" group-title="BANGLA", Bangla IPTV [BD]
