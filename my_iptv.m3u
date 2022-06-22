@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="71 Bangla TV" tvg-logo="https://i.ibb.co/2ngv3Y0/71-Bangla-TV.jpg" group-title="BANGLA", 71 Bangla TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/71bangla.stream/live-orgin/71bangla.stream/chunks.m3u8
+https://live.tvdhaka.com:30443/channelbd/71Bangla/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ABP Ananda [IN]" tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="BANGLA", ABP Ananda [IN]
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Akash Aath [IN]" tvg-logo="https://i.imgur.com/6VL1Ke9.jpg" group-title="BANGLA", Akash Aath [IN]
@@ -10,7 +10,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/98.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Alif IPTV [BD]" tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="BANGLA", Alif IPTV [BD]
 http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ANANDA TV [BD]" tvg-logo="https://i.imgur.com/sYZOVV5.png" group-title="BANGLA", ANANDA TV [BD]
-http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
+https://bd.jagobd.com:444/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ANANDA TV [BD]" tvg-logo="https://i.imgur.com/sYZOVV5.png" group-title="BANGLA", ANANDA TV [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ASIAN TV [BD]" tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BANGLA", ASIAN TV [BD]
@@ -18,7 +18,7 @@ http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ASIAN TV HD [BD]" tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BANGLA", ASIAN TV HD [BD]
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA", ATN Bangla
-http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+https://bd.jagobd.com:444/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN BANGLA [BD]" tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="BANGLA", ATN BANGLA [BD]
 http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN MUSIC" tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="BANGLA", ATN MUSIC
@@ -41,7 +41,7 @@ http://103.159.4.38:9191/CH22-INBD1/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bangla TV" tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA", Bangla TV
 http://10.16.100.245/hindi/b@ngla_tv_1stop.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BANGLA TV HD [BD]" tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="BANGLA", BANGLA TV HD [BD]
-http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+https://bd.jagobd.com:444/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BANGLA VISION [BD]" tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA", BANGLA VISION [BD]
 http://208.86.19.13:81/689.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA", Banglavision
