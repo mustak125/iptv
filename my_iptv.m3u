@@ -1,6 +1,5 @@
 #EXTM3U 
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="71 Bangla TV" tvg-logo="https://i.ibb.co/2ngv3Y0/71-Bangla-TV.jpg" group-title="BANGLA", 71 Bangla TV
-https://live.tvdhaka.com:30443/channelbd/71Bangla/chunks.m3u8
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ABP Ananda [IN]" tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="BANGLA", ABP Ananda [IN]
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Akash Aath [IN]" tvg-logo="https://i.imgur.com/6VL1Ke9.jpg" group-title="BANGLA", Akash Aath [IN]
@@ -296,6 +295,9 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_Bangla&q=800&e=.m3u8
 http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
 
 
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="71 Bangla TV" tvg-logo="https://i.ibb.co/2ngv3Y0/71-Bangla-TV.jpg" group-title="BANGLA", 71 Bangla TV
+https://live.tvdhaka.com:30443/channelbd/71Bangla/chunks.m3u8
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
@@ -464,6 +466,8 @@ http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/28.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV SD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV SD
 http://45.249.187.238:8081/hls/tsl-5.m3u8
+
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Aaj Entertainment" tvg-logo="https://i.imgur.com/OA762pM.png" group-title="PAK ENT.", Aaj Entertainment
 https://playlive.goonj.pk/aajentweb_360p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Aplus" tvg-logo="https://i.imgur.com/HXLqT5G.jpg" group-title="PAK ENT.", Aplus
@@ -503,7 +507,7 @@ http://216.144.250.174/Geo_Kahani_HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hum Sitaray" tvg-logo="https://i.imgur.com/O5NUuPl.jpg" group-title="PAK ENT.", Hum Sitaray
 http://103.141.66.36/bpk-tv/10241/default/manifest.mpd?=.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HUM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="PAK ENT.", HUM TV
-http://stream-e30453a4b.nmbs.top/m3u/Pakistan/708210194c.m3u8
+http://208.86.19.13:81/611.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hum TV" tvg-logo="https://i.imgur.com/jysgKs7.png" group-title="PAK ENT.", Hum TV
 http://95.211.211.168/live/humtv0066/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HUMRAZ TV" tvg-logo="https://i.ytimg.com/vi/9ts2fLPAt7U/hqdefault.jpg" group-title="PAK ENT.", HUMRAZ TV
@@ -521,7 +525,7 @@ http://playlive.goonj.pk/lahorenewsweb_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="LTN Family" tvg-logo="https://i.imgur.com/5iaUgYc.jpg" group-title="PAK ENT.", LTN Family
 http://playlive.goonj.pk/ltnweb_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Madni TV" tvg-logo="https://i.imgur.com/Ig0hIeI.jpg" group-title="PAK ENT.", Madni TV
-http://playlive.goonj.pk/madnitvweb_480p/index.m3u8
+http://208.86.19.13:81/626.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Makkah Live" tvg-logo="https://i.imgur.com/XSMb4er.jpg" group-title="PAK ENT.", Makkah Live
 http://playlive.goonj.pk/makkahweb_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="News One" tvg-logo="https://i.imgur.com/YjypzhE.jpg" group-title="PAK ENT.", News One
@@ -539,7 +543,7 @@ http://playlive.goonj.pk/publicnewsweb_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sahar Urdu (IR)" tvg-logo="https://i.imgur.com/X7hm6yd.png" group-title="PAK ENT.", Sahar Urdu (IR)
 https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Samaa TV" tvg-logo="https://i.imgur.com/DXn57cB.jpg" group-title="PAK ENT.", Samaa TV
-http://playlive.goonj.pk/samaaweb_480p/index.m3u8
+http://208.86.19.13:81/641.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Shrrang TV" tvg-logo="https://i.imgur.com/039vs9H.png" group-title="PAK ENT.", Shrrang TV
 http://dcunilive15-lh.akamaihd.net/i/dclive_1@27006/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Subrang TV (US) (Opt-1)" tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="PAK ENT.", Subrang TV (US) (Opt-1)
