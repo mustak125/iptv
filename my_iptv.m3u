@@ -1176,7 +1176,7 @@ https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Skynet Sports 6" tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="SPORTS", Skynet Sports 6
 https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony SIX" tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS", Sony SIX
-http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54056
+http://103.55.144.46:80/hls/sonysix.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS", Sony Six
 http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Six HD" tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS", Sony Six HD
@@ -1184,7 +1184,7 @@ http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="SPORTS", Sony Ten 1
 http://182.50.65.213:8888/udp/239.239.0.33:3001
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS", Sony Ten 1
-http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
+http://103.55.144.46:80/hls/sonyten1.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="SPORTS", Sony Ten 1 HD
 http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54055
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="SPORTS", Sony Ten 1 HD
@@ -1194,11 +1194,11 @@ http://182.50.65.213:8888/udp/239.239.0.34:3001
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2" tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS", Sony Ten 2
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2" tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="SPORTS", Sony Ten 2
-http://iptv.kitv.live:1935/live/Shari/MTV-P/50.m3u8
+http://103.55.144.46:80/hls/sonyten2.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS", Sony Ten 3
 http://182.50.65.213:8888/udp/239.239.0.35:3001
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="SPORTS", Sony Ten 3
-http://103.205.133.19/hls/ten3.m3u8
+http://103.55.144.46:80/hls/sonyten3.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS", Sony Ten 3
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sports Kool" tvg-logo="https://i.imgur.com/EnFVOYD.jpg" group-title="SPORTS", Sports Kool
@@ -1252,7 +1252,7 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Animal Planet Hindi" tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="DOCUMENTARY", Animal Planet Hindi
 http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54040
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC EARTH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOCUMENTARY", BBC EARTH
-http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
+http://103.55.144.46:80/hls/bbcearth.m3u8
 #EXTINF: -1 tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOCUMENTARY", BBC Earth
 http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54159
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC Lifestyle" tvg-logo="https://s4.gifyu.com/images/image1806468102e0d742.png" group-title="DOCUMENTARY", BBC Lifestyle
@@ -1264,7 +1264,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Create & Craft" tvg-logo="https://www.createandcraft.com/gb/common/images/brand-shop/about-us/logo.png" group-title="DOCUMENTARY", Create & Craft
 https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8?fluxustv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Diccovary" tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="DOCUMENTARY", Diccovary
-http://45.249.187.238:8081/hls/tsl-8.m3u8
+http://103.55.144.46:80/hls/discovery.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovary HD Hindi" tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="DOCUMENTARY", Discovary HD Hindi
 http://185.8.176.227:25461/strtester/ap8s9ndf709a8/57
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Asia" tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY", Discovery Asia
@@ -1333,7 +1333,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/84
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/250px-NASA_TV.svg.png" group-title="DOCUMENTARY", NASA TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="https://i.imgur.com/4duWidg.png" group-title="DOCUMENTARY", Nat Geo
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/51
+http://103.55.144.46:80/hls/ngohd.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="https://i.imgur.com/4duWidg.png" group-title="DOCUMENTARY", Nat Geo
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63557
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Dubai" tvg-logo="https://i.imgur.com/4duWidg.png" group-title="DOCUMENTARY", Nat Geo Dubai
@@ -1367,7 +1367,7 @@ http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54063
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Style" tvg-logo="https://i.imgur.com/8VZNb9j.jpg" group-title="DOCUMENTARY", Style
 http://45.126.83.51/uq2663/h/h01/index.m3u8
 #EXTINF: -1 tvg-name="TLC" tvg-logo="https://i.imgur.com/5LsfS6h.png" group-title="DOCUMENTARY", TLC
-http://103.135.208.14:80/ibox/bd/62
+http://103.55.144.46:80/hls/tlc.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TLC HD English" tvg-logo="https://i.imgur.com/5LsfS6h.png" group-title="DOCUMENTARY", TLC HD English
 http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TLC Hindi" tvg-logo="https://i.imgur.com/2oEJ80x.png" group-title="DOCUMENTARY", TLC Hindi
@@ -1377,7 +1377,7 @@ http://stariptv.top:2086/00/00/19768
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Travel TV" tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="DOCUMENTARY", Travel TV
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF: -1 tvg-name="Travel XP HD" group-title="DOCUMENTARY", Travel XP HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
+http://103.55.144.46:80/hls/travelxp.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TRAVEL XP HD Hindi" group-title="DOCUMENTARY", TRAVEL XP HD Hindi
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54092
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Tv5monda" tvg-logo="https://i.imgur.com/BglsDo6.jpg" group-title="DOCUMENTARY", Tv5monda
