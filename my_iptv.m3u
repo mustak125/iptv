@@ -340,7 +340,7 @@ http://z5amshls.akamaized.net/bigmagic/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="COLORS" tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="HINDI ENT.", COLORS
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors" tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="HINDI ENT.", Colors
-http://103.205.133.44:1935/live/colors/playlist.m3u8
+http://103.55.144.46:80/hls/colore-tv-hd.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors HD" tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="HINDI ENT.", Colors HD
 http://208.86.19.13:81/605.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="HINDI ENT.", COLORS HD
@@ -681,6 +681,8 @@ http://43.230.123.21:8080/live/star-gold-select.m3u8
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="UTV Action" group-title="HINDI MOVIES", UTV Action
 http://208.86.19.13:81/723.stream/index.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://imgur.com/nDLjaDL.png",Utv Action
+http://103.55.144.46:80/hls/utvaction.m3u8
 #EXTINF: -1 tvg-name="Utv Movie" group-title="HINDI MOVIES", Utv Movie
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Wow Cinema" tvg-logo="https://s6.gifyu.com/images/imageb2e3492b1ceca602.png" group-title="HINDI MOVIES", Wow Cinema
@@ -821,7 +823,7 @@ http://45.126.83.51/qwr9ew/s/s38/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Spike TV" tvg-logo="https://i.imgur.com/GGs09Uf.png" group-title="ENGLISH ENT.", Spike TV
 http://87.117.234.107:1935/live/SPIKETV/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star World" tvg-logo="https://i.imgur.com/mmuxT5C.png" group-title="ENGLISH ENT.", Star World
-http://robi.iptv.digijadoo.net/live/star_world/chunks.m3u8
+http://103.55.144.46:80/hls/star-worldhd.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="STAR WORLD" tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="ENGLISH ENT.", STAR WORLD
 http://103.135.208.14:80/ibox/bd/66
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star World HD" tvg-logo="https://i.imgur.com/mmuxT5C.png" group-title="ENGLISH ENT.", Star World HD
@@ -915,7 +917,7 @@ http://45.249.187.238:8081/hls/new24.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="LOTUS MACAU" tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="ENGLISH MOVIES", LOTUS MACAU
 http://103.135.208.14:80/ibox/bd/69
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MBC 2 FHD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="ENGLISH MOVIES", MBC 2 FHD
-https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+http://103.55.144.46:80/hls/dhin.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="ENGLISH MOVIES", MBC 2 HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MBC Action FHD" tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES", MBC Action FHD
@@ -969,11 +971,11 @@ http://103.194.169.115:25461/1E5mc4ZUha/5TTeiw5UAL/54057?play_token=eyiNZ5SJw0&t
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="ENGLISH MOVIES", Sony Pix
 http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pix HD" tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="ENGLISH MOVIES", Sony Pix HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/74
+http://103.55.144.46:80/hls/sonypixhd.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES", Star Movies
 http://43.230.123.21:8080/live/star-movies.m3u8
 #EXTINF: -1 tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="ENGLISH MOVIES", Star Movies HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/22
+http://103.55.144.46:80/hls/starmovies.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Movies HD [IN]" tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="ENGLISH MOVIES", Star Movies HD [IN]
 http://45.249.187.238:8081/hls/tsl-4.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/Jl8gccd.jpg" group-title="ENGLISH MOVIES", Star Movies Select HD
