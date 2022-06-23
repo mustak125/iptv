@@ -5,7 +5,7 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Akash Aath [IN]" tvg-logo="https://i.imgur.com/6VL1Ke9.jpg" group-title="BANGLA", Akash Aath [IN]
 http://10.16.100.245/hindi/akash8_1stop.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Akash Aath [IN]" tvg-logo="https://i.imgur.com/6VL1Ke9.jpg" group-title="BANGLA", Akash Aath [IN]
-http://iptv.kitv.live:1935/live/Shari/MTV-P/98.m3u8
+http://208.86.19.13:81/902.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Alif IPTV [BD]" tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="BANGLA", Alif IPTV [BD]
 http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ANANDA TV [BD]" tvg-logo="https://i.imgur.com/sYZOVV5.png" group-title="BANGLA", ANANDA TV [BD]
