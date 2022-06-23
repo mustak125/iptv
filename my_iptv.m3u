@@ -704,6 +704,8 @@ http://208.86.19.13:81/723.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://imgur.com/nDLjaDL.png",Utv Action
 http://103.55.144.46:80/hls/utvaction.m3u8
 #EXTINF: -1 tvg-name="Utv Movie" group-title="HINDI MOVIES", Utv Movie
+http://103.55.144.46:80/hls/utv.m3u8
+#EXTINF: -1 tvg-name="Utv Movie" group-title="HINDI MOVIES", Utv Movie
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Wow Cinema" tvg-logo="https://s6.gifyu.com/images/imageb2e3492b1ceca602.png" group-title="HINDI MOVIES", Wow Cinema
 http://103.205.133.19/hls/wowcinema.m3u8
@@ -1016,6 +1018,9 @@ http://203.154.243.89:11205
 http://iptv.mirrorace.net/?channelid=834
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Z Classic" tvg-logo="https://i.imgur.com/cYP18gp.png" group-title="ENGLISH MOVIES", Z Classic
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/animax.png",103. ANIMAX
+http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ANIMAX (2)" tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="KIDS", ANIMAX (2)
 http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Aniplus" tvg-logo="https://i.imgur.com/xeanFZ7.png" group-title="KIDS", Aniplus
