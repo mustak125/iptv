@@ -88,7 +88,9 @@ http://208.86.19.13:81/616.stream/index.m3u8
 #EXTINF: -1 tvg-name="Color Bangla FHD" tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA", Color Bangla FHD
 http://103.159.4.38:9191/CH25-INBD4/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD [IN] (1)" tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA", Colors Bangla HD [IN] (1)
-http://10.16.100.204:8082/hls/col0rsb@ngla.m3u8
+http://103.55.144.46:80/hls/colorsbangla.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/HYcWvd9.png",Colors Bangla Cinema
+http://103.55.144.46:80/hls/colore-bangla-cinema.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Cumilla 24 IPTV [BD]" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Cumilla24.jpeg" group-title="BANGLA", Cumilla 24 IPTV [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/live-orgin/cumilla24.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="BANGLA", DBC News
@@ -258,6 +260,8 @@ http://208.86.19.13:81/693.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV [BD]" tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BANGLA", SOMOY TV [BD]
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Aath [IN]" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA", Sony Aath [IN]
+http://103.55.144.46:80/hls/Sony_Aath.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Aath [IN]" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA", Sony Aath [IN]
 http://10.16.100.204:8082/hls/s0ny8aat.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Aath HD [IN]" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA", Sony Aath HD [IN]
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
@@ -268,9 +272,11 @@ http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD [IN]" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA", Star Jalsha HD [IN]
 http://103.205.133.19/hls/chsj.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BANGLA", Star Jalsha Movies
-http://otv.ftpbd.net:80/streams/115/index.m3u8
+http://103.55.144.46:80/hls/jalshamovies.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha Movies HD" tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA", Star Jalsha Movies HD
 http://208.86.19.13:81/617.stream/index.m3u8
+#EXTINF: -1 tvg-name="Sun Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Logo_of_Sun_Bangla.jpg/200px-Logo_of_Sun_Bangla.jpg" group-title="BANGLA", Sun Bangla
+http://103.55.144.46:80/hls/sunbangla.m3u8
 #EXTINF: -1 tvg-name="Sun Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Logo_of_Sun_Bangla.jpg/200px-Logo_of_Sun_Bangla.jpg" group-title="BANGLA", Sun Bangla
 http://208.86.19.13:81/903.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TBN 24 USA [BD]" tvg-logo="https://i.imgur.com/CCZdRgb.png" group-title="BANGLA", TBN 24 USA [BD]
@@ -290,9 +296,9 @@ http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/108782
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA", Zee Bangla Cinema [IN]
 http://208.86.19.13:81/708.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN] (1)" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA", Zee Bangla Cinema [IN] (1)
-http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
+http://103.55.144.46:80/hls/zee-bangla-cinema.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD [IN]" tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="BANGLA", Zee Bangla HD [IN]
-
+http://103.55.144.46:80/hls/zeebanglahd.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla HD
 http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla SD [IN]" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla 
@@ -406,7 +412,7 @@ http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony 1" tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.", Sony
 http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony HD" tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="HINDI ENT.", Sony HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8
+http://144.217.70.181:9587/hin2/SONYTVHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY HD" tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="HINDI ENT.", SONY HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/1
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pal" tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="HINDI ENT.", Sony Pal
@@ -469,7 +475,7 @@ http://208.86.19.13:81/606.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="HINDI ENT.", Zee TV HD
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV SD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV SD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/28.m3u8
+http://103.55.144.46:80/hls/zeetv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV SD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV SD
 http://45.249.187.238:8081/hls/tsl-5.m3u8
 
@@ -568,6 +574,8 @@ http://playlive.goonj.pk/urdu1web_480p/index.m3u8
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zindagi TV" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="PAK ENT.", Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Abzy Movie" tvg-logo="https://i.imgur.com/TCRYibC.png" group-title="HINDI MOVIES", Abzy Movie
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ABZY MOVIES" tvg-logo="https://i.imgur.com/TCRYibC.png" group-title="HINDI MOVIES", ABZY MOVIES
