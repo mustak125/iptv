@@ -690,7 +690,7 @@ http://dtvipl.ipq.co:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold HD
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold International" tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES", Star Gold International
-
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold International" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold International
 https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold Select HD" group-title="HINDI MOVIES", Star Gold Select HD
@@ -1590,7 +1590,7 @@ https://v.aaho.tv/live/aahomusic.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ary Muzik" tvg-logo="https://i.imgur.com/lM6aAEj.jpg" group-title="MUSIC", Ary Muzik
 http://robi.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Music" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" group-title="MUSIC", B4U Music
-http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Music" tvg-logo="https://i.imgur.com/XooMA08.jpg" group-title="MUSIC", B4U Music
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/207
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Balle Balle" tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="MUSIC", Balle Balle
@@ -1620,7 +1620,7 @@ https://www.djing.com/tv/classics.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DJing Hits" tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="MUSIC", DJing Hits
 https://www.djing.com/tv/hits.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="E24" tvg-logo="https://i.imgur.com/AEWPtCE.jpg" group-title="MUSIC", E24
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.ts
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="GABRUU TV" tvg-logo="https://i.imgur.com/BnCF4JT.png" group-title="MUSIC", GABRUU TV
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF: -1 tvg-name="Gemini Music" group-title="MUSIC", Gemini Music
@@ -1654,11 +1654,11 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC", MTV
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MTV Beats (1)" tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="MUSIC", MTV Beats (1)
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/146
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MTV Beats (2)" tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="MUSIC", MTV Beats (2)
 http://103.135.208.14:80/ibox/bd/131
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Mtv India" tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC", Mtv India
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/72
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MTV India" tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC", MTV India
 http://103.141.66.36/bpk-tv/10110/default/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MUSIC 24" tvg-logo="https://i.imgur.com/gZ7ITKi.png" group-title="MUSIC", MUSIC 24
