@@ -72,6 +72,8 @@ http://208.86.19.13:81/608.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 9 HD [BD]" tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA", CHANNEL 9 HD [BD]
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL I HD [BD]" tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA", CHANNEL I HD [BD]
+http://103.55.144.46:80/hls/channeli.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL I HD [BD]" tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA", CHANNEL I HD [BD]
 http://208.86.19.13:81/680.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL I HD [BD]" tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA", CHANNEL I HD [BD]
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
@@ -120,7 +122,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/63.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="EKATTOR TV [BD]" tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BANGLA", EKATTOR TV [BD]
 http://208.86.19.13:81/604.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="EKATTOR TV HD [BD]" tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BANGLA", EKATTOR TV HD [BD]
-https://youtu.be/xrTEbk5cy4U
+http://103.55.144.46:80/hls/nexus.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA", Ekushey TV
 http://208.86.19.13:81/620.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="EKUSHEY TV [BD]" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA", EKUSHEY TV [BD]
@@ -135,6 +137,8 @@ http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
 http://bdiptv.net:8082/gtv/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="GAZI TV HD [BD]" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA", GAZI TV HD [BD]
 http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="INDEPENDENT TV [BD]" tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BANGLA", INDEPENDENT TV [BD]
+http://103.55.144.46:80/hls/indepen.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="BANGLA", Independent
 http://208.86.19.13:81/601.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="INDEPENDENT TV [BD]" tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BANGLA", INDEPENDENT TV [BD]
@@ -166,7 +170,7 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV [BD]" tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BANGLA", MAASRANGA TV [BD]
 http://208.86.19.13:81/686.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV HD [BD]" tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BANGLA", MAASRANGA TV HD [BD]
-http://10.16.100.208:8082/hindi/m@sranga_1stOP.m3u8
+http://103.55.144.46:80/hls/masranga.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Madani TV Bangla" tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="BANGLA", Madani TV Bangla
 http://45.249.187.238:8081/hls/new9.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Magic Bangla IPTV [BD]" tvg-logo="https://i.imgur.com/vJ9h5AW.jpg" group-title="BANGLA", Magic Bangla IPTV [BD]
@@ -247,6 +251,8 @@ http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sobuj Bangla IPTV [BD]" tvg-logo="https://i.imgur.com/A7FuCH7.png" group-title="BANGLA", Sobuj Bangla IPTV [BD]
 http://45.77.242.60/live/sobujbangla/index.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV [BD]" tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BANGLA", SOMOY TV [BD]
+http://103.55.144.46:80/hls/somoy.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV [BD]" tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BANGLA", SOMOY TV [BD]
 http://208.86.19.13:81/693.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV [BD]" tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BANGLA", SOMOY TV [BD]
@@ -1214,7 +1220,9 @@ http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS", Star Sports Select 2 HD
 http://87.117.234.107:1935/live/StarSports2FHD/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Sky",T Sports(Sky)
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://imgur.com/FXoKFOA.png" group-title="SPORTS", T Sports
+http://103.55.144.46:80/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="SPORTS",T Sports(Sky)
 http://stream.accessnetbd.com/hls/sky12.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BDIPTV",T Sports(BDIPTV)
 http://bdiptv.net:8082/tsp/index.m3u8
