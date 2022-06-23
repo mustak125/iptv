@@ -254,11 +254,11 @@ http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Aath [IN]" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA", Sony Aath [IN]
 http://10.16.100.204:8082/hls/s0ny8aat.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Aath HD [IN]" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA", Sony Aath HD [IN]
-http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_aath&q=800&e=.m3u8
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF: -1 tvg-name="Star Jalsa HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA", Star Jalsa HD
 http://103.159.4.38:9191/CH24-INBD3/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD [IN]" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA", Star Jalsha HD [IN]
-http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
+http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD [IN]" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA", Star Jalsha HD [IN]
 http://103.205.133.19/hls/chsj.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BANGLA", Star Jalsha Movies
@@ -286,13 +286,13 @@ http://208.86.19.13:81/708.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN] (1)" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA", Zee Bangla Cinema [IN] (1)
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD [IN]" tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="BANGLA", Zee Bangla HD [IN]
-http://208.86.19.13:81/906.stream/index.m3u8
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla HD
 http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla SD [IN]" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla SD [IN]
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla SD [IN]" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla 
 http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_Bangla&q=800&e=.m3u8
 #EXTINF: -1 tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla
-http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
+http://208.86.19.13:81/906.stream/index.m3u8
 
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="71 Bangla TV" tvg-logo="https://i.ibb.co/2ngv3Y0/71-Bangla-TV.jpg" group-title="BANGLA", 71 Bangla TV
@@ -420,7 +420,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/180
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY WAH" tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="HINDI ENT.", SONY WAH
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Baharat HD" group-title="HINDI ENT.", Star Baharat HD
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+http://208.86.19.13:81/721.stream/index.m3u8
 #EXTINF: -1 tvg-name="Star Baharat HD" group-title="HINDI ENT.", Star Baharat HD
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54225
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Bharat" tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="HINDI ENT.", Star Bharat
@@ -654,9 +654,9 @@ http://45.249.187.238:8081/hls/tsl-1.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold HD
 http://dtvipl.ipq.co:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold International" tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES", Star Gold International
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold International" tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES", Star Gold International
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold International" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold International
 https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold Select HD" group-title="HINDI MOVIES", Star Gold Select HD
@@ -676,7 +676,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Action" tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="HINDI MOVIES", Zee Action
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Action" tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="HINDI MOVIES", Zee Action
-http://z5amshls.akamaized.net/action/tracks-v2a1/playlist.m3u8
+http://208.86.19.13:81/728.stream/index.m3u8
 #EXTINF: -1 tvg-name="Zee Anmol Movie" group-title="HINDI MOVIES", Zee Anmol Movie
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bioscope" tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="HINDI MOVIES", Zee Bioscope
@@ -690,7 +690,7 @@ http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/1057
 #EXTINF:-1 tvg-logo=""group-title="HINDI MOVIES",Zee Classic
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", Zee Cinema
-http://robi.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", Zee Cinema
 http://z5amshls.akamaized.net/zeecinemame/tracks-v2a1/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES", Zee Cinema
@@ -1201,7 +1201,7 @@ http://87.117.234.107:1935/live/StarSports1FHD/playlists.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 2
 http://hdonline.ml:80/kam/kam/3062
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 2 HD
-http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18183.m3u8
+http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS", Star Sports Select 1 HD
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS", Star Sports Select 1 HD
