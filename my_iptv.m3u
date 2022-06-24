@@ -382,6 +382,8 @@ http://iptv.mirrorace.net/?channelid=279
 http://randomserver.site:2086/Bria/Bria/94683
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dabaang" tvg-logo="https://i.imgur.com/wXSRiun.jpg" group-title="HINDI ENT.", Dabaang
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dabaang" tvg-logo="https://i.imgur.com/wXSRiun.jpg" group-title="HINDI ENT.", Dabaang
+http://14.199.164.20:4001/play/a0nb/index.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DD Panjabi" tvg-logo="https://i.imgur.com/XK8MrA6.jpg" group-title="HINDI ENT.", DD Panjabi
 http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DD Vyas" tvg-logo="https://i.imgur.com/IIKYrLZ.jpg" group-title="HINDI ENT.", DD Vyas
@@ -621,6 +623,10 @@ http://45.249.187.238:8081/hls/tsl-7.m3u8
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/62
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="And Pictures HD" tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES", And Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Bhojpuri Cinema (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0rj/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,B4U Bhojpuri (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0nq/index.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="HINDI MOVIES", B4U Kadak
 http://103.139.171.5:5001/jiotvplus/live.php?c=B4U_Kadak&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="HINDI MOVIES", B4U Kadak
@@ -939,6 +945,8 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 http://103.47.132.165/PLTV/88888888/224/3221227329/1.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hits (2)" tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="ENGLISH MOVIES", Hits (2)
 http://45.126.83.51/uq2663/h/h37/index.m3u8
+#EXTINF:-1 ,Hallmark Movies & More (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hollywood TV" tvg-logo="https://i.imgur.com/I8z4JXN.jpg" group-title="ENGLISH MOVIES", Hollywood TV
 http://live4.ocnttv.com:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky Cinema Man HD
@@ -1335,7 +1343,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/mas
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fashion TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" group-title="DOCUMENTARY", Fashion TV
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FOOD FOOD" tvg-logo="https://i.imgur.com/y6uwpBZ.jpg" group-title="DOCUMENTARY", FOOD FOOD
-http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/2387
+http://14.199.164.20:4001/play/a0qx/index.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-name="Food Food" tvg-logo="https://i.imgur.com/y6uwpBZ.jpg" group-title="DOCUMENTARY", Food Food
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/329
 
@@ -1444,7 +1452,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="AAJ TAK" tvg-logo="https://i.imgur.com/KYqVK91.png" group-title="NEWS", AAJ TAK
 http://103.141.66.36/bpk-tv/10311/default/manifest.mpd
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ABC News" tvg-logo="https://www.abc.net.au/cm/lb/8212704/data/news-logo2017-data.png" group-title="NEWS", ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_21.m3u8
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ABC News Digital 1" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="NEWS", ABC News Digital 1
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ABC News Digital 2" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="NEWS", ABC News Digital 2
@@ -1653,6 +1661,8 @@ https://www.djing.com/tv/classics.m3u8
 https://www.djing.com/tv/hits.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="E24" tvg-logo="https://i.imgur.com/AEWPtCE.jpg" group-title="MUSIC", E24
 http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="E24" tvg-logo="https://i.imgur.com/AEWPtCE.jpg" group-title="MUSIC", E24
+http://14.199.164.20:4001/play/a0pc/index.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="GABRUU TV" tvg-logo="https://i.imgur.com/BnCF4JT.png" group-title="MUSIC", GABRUU TV
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF: -1 tvg-name="Gemini Music" group-title="MUSIC", Gemini Music
