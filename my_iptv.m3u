@@ -447,7 +447,7 @@ http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony HD" tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="HINDI ENT.", Sony HD
 http://103.55.144.46/hls/sonyen.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY HD" tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="HINDI ENT.", SONY HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/1
+http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pal" tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="HINDI ENT.", Sony Pal
 http://iptv.mirrorace.net/?channelid=474
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY PAL" tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="HINDI ENT.", SONY PAL
@@ -743,6 +743,8 @@ http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/1057
 #EXTINF:-1 tvg-logo=""group-title="HINDI MOVIES",Zee Classic
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="HINDI MOVIES",Zee Classic
+http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", Zee Cinema
@@ -763,6 +765,7 @@ http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE MUNDO" tvg-logo="https://i.imgur.com/85m3yYe.jpg" group-title="HINDI MOVIES", ZEE MUNDO
 http://z5amshls.akamaized.net/mundohd/tracks-v1a1/playlist.m3u8
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Flix" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH ENT.", & Flix
 http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="&f lix HD" tvg-logo="https://dreamdth.com/wp-content/uploads/2019/09/xplor-HD.jpg" group-title="ENGLISH ENT.", & flix HD
@@ -1453,7 +1456,7 @@ http://robi.iptv.digijadoo.net/live/abp_news/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="NEWS", Al Jazeera
 http://45.126.83.51/qwr9ew/s/s17/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera HD" tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="NEWS", Al Jazeera HD
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+http://103.55.144.46/hls/aljazeera.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="APN News" tvg-logo="https://edge01.iptv.digijadoo.net/static/apn_news.png" group-title="NEWS", APN News
 http://robi.iptv.digijadoo.net/live/apn_news/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Arirang" tvg-logo="https://i.imgur.com/E6MpsL3.png" group-title="NEWS", Arirang
