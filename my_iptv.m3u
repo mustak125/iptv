@@ -92,7 +92,7 @@ http://103.55.144.46:80/hls/colorsbangla.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/HYcWvd9.png",Colors Bangla Cinema
 http://103.55.144.46:80/hls/colore-bangla-cinema.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Cumilla 24 IPTV [BD]" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Cumilla24.jpeg" group-title="BANGLA", Cumilla 24 IPTV [BD]
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/live-orgin/cumilla24.stream/chunks.m3u8
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="BANGLA", DBC News
 http://208.86.19.13:81/614.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DBC NEWS HD [BD]" tvg-logo="https://i.imgur.com/WmLw772.png" group-title="BANGLA", DBC NEWS HD [BD]
@@ -194,7 +194,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NAGORIK TV [BD]" tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="BANGLA", NAGORIK TV [BD]
 http://103.205.133.14/hls/nagorik.m3u8
-
+#EXTINF:-1 ,News 18 Bengali (360p) [Not 24/7]
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?rebase=on&sd=10&checkedby:iptvcat.com
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="BANGLA", News 24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NEWS 24 [BD]" tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="BANGLA", NEWS 24 [BD]
@@ -441,7 +442,7 @@ https://load.airtel.tv/rajtv/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1  group-title="HINDI ENT" tvg-logo="",SAHARA ONE 
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Shemaroo" tvg-logo="https://i.imgur.com/wOYB1nb.png" group-title="HINDI ENT.", Shemaroo
-https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
+http://14.199.164.20:4001/play/a0nh/index.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony" tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.", sony
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony 1" tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.", Sony
@@ -477,7 +478,7 @@ http://randomserver.site:2086/Bria/Bria/94673
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="HINDI ENT.", Star Plus
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="HINDI ENT.", Star Plus
-http://103.55.144.46/hls/starplus.m3u8
+http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus HD" tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="HINDI ENT.", Star Plus HD
 http://208.86.19.13:81/607.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="HINDI ENT.", STAR PLUS HD
@@ -1562,6 +1563,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NDTV India (2)" tvg-logo="https://i.imgur.com/VBjM4HO.png" group-title="NEWS", NDTV India (2)
 http://103.141.66.36/bpk-tv/10305/default/manifest.mpd?=.m3u8
+#EXTINF:-1 ,News 18 Hindi
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NHK WORLD" tvg-logo="https://i.imgur.com/HuQij93.png" group-title="NEWS", NHK WORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NHK WORLD HD" tvg-logo="https://i.imgur.com/HuQij93.png" group-title="NEWS", NHK WORLD HD
