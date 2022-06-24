@@ -1054,11 +1054,11 @@ http://103.55.144.46:80/hls/cn.m3u8
 #EXTINF: -1 tvg-name="Cartorn Network" tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="KIDS", Cartorn Network
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/139
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://i.imgur.com/XPBl26M.png" group-title="KIDS", Discovery Kids
-https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
+http://103.55.144.46/hls/dis-kid.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Disney channel" tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="KIDS", Disney channel
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/132
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Disney Junior India" tvg-logo="https://i.imgur.com/l7GkOGS.png" group-title="KIDS", Disney Junior India
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/149
+http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Disney XD" tvg-logo="https://i.imgur.com/Sw1rCgm.png" group-title="KIDS", Disney XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hungama" tvg-logo="https://i.imgur.com/M3GFtld.png" group-title="KIDS", Hungama
@@ -1099,7 +1099,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/303
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Yay" tvg-logo="https://i.imgur.com/msoABHA.jpg" group-title="KIDS", Sony Yay
 http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SPACETOON KIDS" tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="KIDS", SPACETOON KIDS
-http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TCT Kids" tvg-logo="https://i.imgur.com/QQkTmfT.jpg" group-title="KIDS", TCT Kids
 https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TCT Kids" tvg-logo="https://i.imgur.com/QQkTmfT.jpg" group-title="KIDS", TCT Kids
