@@ -209,6 +209,8 @@ http://208.86.19.13:81/652.stream/index.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/9.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Orange Bangla [IN]" tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="BANGLA", Orange Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla",36.Peace Tv Bangla
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="PAN VISION IPTV [BD]" tvg-logo="https://i.imgur.com/kdez6Hz.jpg" group-title="BANGLA", PAN VISION IPTV [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/live-orgin/panvisiontvs.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="POLLI IPTV [BD]" tvg-logo="https://i.imgur.com/QB6BeT5.png" group-title="BANGLA", POLLI IPTV [BD]
@@ -1056,6 +1058,8 @@ http://45.126.83.51/dr9445/h/h144/01.m3u8
 http://45.126.83.51/dr9445/h/h02/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="AniPlus" tvg-logo="https://i.imgur.com/RQcaLDO.jpg" group-title="KIDS", AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="KIDS",104.Bangla Kids 
+http://14.199.164.20:4001/play/a0m1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC Cbeebies" tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="KIDS", BBC Cbeebies
 http://iptv.kitv.live:1935/live/Shari/MTV-P/67.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC Cbeebies" tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="KIDS", BBC Cbeebies
@@ -1210,11 +1214,11 @@ http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RTV Sports" tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="SPORTS", RTV Sports
 http://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sky Cricket HD" tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS", Sky Cricket HD
-http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/18048
+http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Arena" tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS", Sky Sports Arena
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/18051
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football" tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS", Sky Sports Football
-http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/18047
+http://93.152.174.144:4000/play/skysports5/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Main Event" tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS", Sky Sports Main Event
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/18046
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Mix" tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS", Sky Sports Mix
@@ -1437,8 +1441,8 @@ http://stariptv.top:2086/00/00/19768
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF: -1 tvg-name="Travel XP HD" group-title="DOCUMENTARY", Travel XP HD
 http://103.55.144.46:80/hls/travelxp.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TRAVEL XP HD Hindi" group-title="DOCUMENTARY", TRAVEL XP HD Hindi
-http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54092
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TRAVEL XP HD" group-title="DOCUMENTARY", TRAVEL XP HD 
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Tv5monda" tvg-logo="https://i.imgur.com/BglsDo6.jpg" group-title="DOCUMENTARY", Tv5monda
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 #EXTINF: -1 tvg-name="World Animal" group-title="DOCUMENTARY", World Animal
