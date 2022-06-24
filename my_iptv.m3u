@@ -728,7 +728,7 @@ http://103.55.144.46:80/hls/utv.m3u8
 #EXTINF: -1 tvg-name="Utv Movie" group-title="HINDI MOVIES", Utv Movie
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Wow Cinema" tvg-logo="https://s6.gifyu.com/images/imageb2e3492b1ceca602.png" group-title="HINDI MOVIES", Wow Cinema
-http://103.205.133.19/hls/wowcinema.m3u8
+http://14.199.164.20:4001/play/a0n3/index.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WoW CINEMA" tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="HINDI MOVIES", WoW CINEMA
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Action" tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="HINDI MOVIES", Zee Action
