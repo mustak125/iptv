@@ -706,11 +706,11 @@ https://load.airtel.tv/sonymax2/smil:common.smil/chunklist_b896000_DVR_sleng.m3u
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold 2" tvg-logo="https://i.imgur.com/e053RWs.png" group-title="HINDI MOVIES", Star Gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold 2" tvg-logo="https://s4.gifyu.com/images/image43c0e0062d57475e.png" group-title="HINDI MOVIES", Star Gold 2
-http://45.249.187.238:8081/hls/tsl-1.m3u8
+http://103.55.144.46/hls/stargold2hd.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Utsav Gold" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Utsav Gold
 http://208.86.19.13:81/717.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold HD
-http://dtvipl.ipq.co:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+http://103.55.144.46/hls/stargold.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold HD
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold International" tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES", Star Gold International
@@ -760,7 +760,7 @@ http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", Zee Cinema
 http://z5amshls.akamaized.net/zeecinemame/tracks-v2a1/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES", Zee Cinema
-http://iptv.kitv.live:1935/live/Shari/MTV-P/29.m3u8
+http://103.55.144.46/hls/zeecinemahd.m3u8
 #EXTINF: -1 tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", Zee Cinema
 http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/76.m3u8
 #EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", Zee Cinema HD
