@@ -21,9 +21,9 @@ https://bd.jagobd.com:444/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN BANGLA [BD]" tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="BANGLA", ATN BANGLA [BD]
 http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN MUSIC" tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="BANGLA", ATN MUSIC
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8
+https://cdn.rangdhanu.live/ATNMusic/video.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN Music [BD]" tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="BANGLA", ATN Music [BD]
-http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+https://bd.jagobd.com:444/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="BANGLA", ATN News
 http://103.205.133.14/hls/atnnews.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN NEWS [BD]" tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="BANGLA", ATN NEWS [BD]
@@ -315,6 +315,8 @@ http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/iuRzcdO.png",MEGHNA TV
 http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/l76jXPz.png",NEXUS TV
+http://103.55.144.46/hls/nexus.m3u8
+#EXTINF: -1 tvg-name="NEXUS TV" tvg-logo="https://i.imgur.com/tQRMdCv.png" group-title="BANGLA", NEXUS TV
 https://bd.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/LNGJDc4.png",Amar Bangla
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
@@ -621,9 +623,9 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/669
 #EXTINF: -1 tvg-name="ACV Movies" group-title="HINDI MOVIES", ACV Movies
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63276
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="And Picture" tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES", And Picture
-http://45.249.187.238:8081/hls/tsl-7.m3u8
+http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="And Picture HD" tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES", And Picture HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/62
+https://nbn.chowdhury-shaheb.com/live/nb-npictures_720p/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="And Pictures HD" tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES", And Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgu" group-title="HINDI MOVIES", Bhojpuri Cinema
@@ -1268,7 +1270,7 @@ https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 1
 http://otv.ftpbd.net/streams/113/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 1
-http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
+http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 1 HD
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD Hindi" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 1 HD Hindi
@@ -1282,13 +1284,13 @@ http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS", Star Sports Select 1 HD
 http://103.55.144.46:80/hls/Star_Sport_Select1HD.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS", Star Sports Select 1 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS", Star Sports Select 1 HD
 http://103.81.104.222/live/startsports-select-1hd/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS", Star Sports Select 2 HD
 http://103.55.144.46:80/hls/select2.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS", Star Sports Select 2 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
+http://103.55.144.46/hls/select2.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS", Star Sports Select 2 HD
 http://87.117.234.107:1935/live/StarSports2FHD/playlists.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://imgur.com/FXoKFOA.png" group-title="SPORTS", T Sports
