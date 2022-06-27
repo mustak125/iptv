@@ -23,7 +23,7 @@ https://cdn.rangdhanu.live/ATNMusic/video.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN Music [BD]" tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="BANGLA", ATN Music [BD]
 https://bd.jagobd.com:444/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="BANGLA", ATN News
-http://103.205.133.14/hls/atnnews.m3u8
+http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN NEWS [BD]" tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="BANGLA", ATN NEWS [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 
