@@ -46,7 +46,7 @@ https://bd.jagobd.com:444/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BIJOY TV [BD]" tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="BANGLA", BIJOY TV [BD]
 http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BIJOY TV [BD]" tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="BANGLA", BIJOY TV [BD]
-http://103.205.133.19/hls/bijoytv.m3u8
+http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA", BOISHAKHI TV
 http://208.86.19.13:81/683.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV [BD]" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA", BOISHAKHI TV [BD]
@@ -115,11 +115,13 @@ https://yuppcatchup.akamaized.net/preview/dhoommusic/1100.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dhoom Music [IN]" tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="BANGLA", Dhoom Music [IN]
 http://robi.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Duronto TV" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="BANGLA", Duronto TV
-http://45.249.187.238:8081/hls/new3.m3u8
+http://stream.amrbd.com:8082/Duronto_TV/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Duronto TV" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="BANGLA", Duronto TV
 https://nbn.chowdhury-shaheb.com/live/nb-duronto_720p/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="EKATTOR TV [BD]" tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BANGLA", EKATTOR TV [BD]
-http://208.86.19.13:81/604.stream/index.m3u8
+http://12.1.1.1:8082/Ekattor-tv/index.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="EKATTOR TV [BD]" tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BANGLA", EKATTOR TV [BD]
+http://15.1.1.10:8082/EKTTOR-TV/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="EKATTOR TV HD [BD]" tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BANGLA", EKATTOR TV HD [BD]
 http://103.55.144.46:80/hls/nexus.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA", Ekushey TV
@@ -167,7 +169,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/59.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="KTV BANGLA IPTV [BD]" tvg-logo="https://i.imgur.com/TRfkhjY.png" group-title="BANGLA", KTV BANGLA IPTV [BD]
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV [BD]" tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BANGLA", MAASRANGA TV [BD]
-http://103.159.4.38:9191/CH20-BD9/index.m3u8
+http://bdiptv.net:8082/Maasranga/index.m3u8?
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV HD [BD]" tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BANGLA", MAASRANGA TV HD [BD]
 http://103.55.144.46:80/hls/masranga.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Madani TV Bangla" tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="BANGLA", Madani TV Bangla
@@ -182,8 +184,7 @@ http://208.86.19.13:81/681.stream/index.m3u8
 http://103.205.133.14/hls/mohonatv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movie Bangla TV" tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BANGLA", Movie Bangla TV
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Music Fatafati [IN]" tvg-logo="https://i.imgur.com/l6BlALg.jpg" group-title="BANGLA", Music Fatafati [IN]
-http://robi.iptv.digijadoo.net/live/music_fatafati/chunks.m3u8
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MY CINEMA IPTV [BD]" tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="BANGLA", MY CINEMA IPTV [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/live-orgin/mycinema-up2.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MY TV [BD]" tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA", MY TV [BD]
@@ -1120,8 +1121,7 @@ http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONIC" tvg-logo="https://i.imgur.com/94NoKFn.jpg" group-title="KIDS", SONIC
 http://103.135.208.14:80/ibox/bd/58
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Yay" tvg-logo="https://i.imgur.com/msoABHA.jpg" group-title="KIDS", Sony Yay
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/303
-
+http://103.55.144.46/hls/dis-kid.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Yay" tvg-logo="https://i.imgur.com/msoABHA.jpg" group-title="KIDS", Sony Yay
 http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SPACETOON KIDS" tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="KIDS", SPACETOON KIDS
@@ -1135,6 +1135,8 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 
 
 
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/asp.jpg"  group-title="SPORTS",A Sports HD 
+http://bdiptv.net:8082/ASPORTS/index.m3u8
 #EXTINF:-1 ,Ad sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 ,Ad sports 2
@@ -1142,34 +1144,21 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 #EXTINF:-1 ,Ad sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF: -1 tvg-name="Bein Sport HD 01" group-title="SPORTS", Bein Sport HD 01
-http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33600
+http://bdiptv.net:8082/BEIN-SPORTS-PREMIUM-1/index.m3u8
 #EXTINF: -1 tvg-name="Bein Sport HD 02" group-title="SPORTS", Bein Sport HD 02
-http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33601
+http://bdiptv.net:8082/BEIN-SPORTS-2-HD/index.m3u8
 #EXTINF: -1 tvg-name="Bein Sport HD 03" group-title="SPORTS", Bein Sport HD 03
-http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33602
+http://bdiptv.net:8082/BEIN-SPORTS-3-HD/index.m3u8
 #EXTINF: -1 tvg-name="Bein Sport HD 04" group-title="SPORTS", Bein Sport HD 04
-http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33603
+http://bdiptv.net:8082/BEIN-SPORTS-4/index.m3u8
 #EXTINF: -1 tvg-name="Bein Sport HD 05" group-title="SPORTS", Bein Sport HD 05
-
 http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33604
-#EXTINF: -1 tvg-name="Bein Sport HD 06" group-title="SPORTS", Bein Sport HD 06
-http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33605
-#EXTINF: -1 tvg-name="Bein Sport HD 07" group-title="SPORTS", Bein Sport HD 07
-http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33606
-#EXTINF: -1 tvg-name="Bein Sport HD 08" group-title="SPORTS", Bein Sport HD 08
-http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33607
-#EXTINF: -1 tvg-name="Bein Sport HD 09" group-title="SPORTS", Bein Sport HD 09
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/15941
-#EXTINF: -1 tvg-name="Bein Sport HD 10" group-title="SPORTS", Bein Sport HD 10
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/15942
-#EXTINF: -1 tvg-name="Bein Sports USA HD" group-title="SPORTS", Bein Sports USA HD
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/8028
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BT Sports-1" tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS", BT Sports-1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+http://bdiptv.net:8082/BT-SPORTS-1-UK/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BT Sports-2" tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS", BT Sports-2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
+http://bdiptv.net:8082/BT-SPORTS-2-UK/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BT Sports-3" tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS", BT Sports-3
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
+http://bdiptv.net:8082/BT-SPORTS-3-UK/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DD Sports" tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="SPORTS", DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/DDSportsLogo.png/240px-DDSportsLogo.png" group-title="SPORTS", DD Sports
@@ -1213,7 +1202,7 @@ http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="GOLTV" tvg-logo="https://i.imgur.com/OxIKeaX.jpg" group-title="SPORTS", GOLTV
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Olympic Channel" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="SPORTS", Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8
+http://bdiptv.net:8082/OLYMPIC-CHANNEL-HD/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Olympic Channel [HD]" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="SPORTS", Olympic Channel [HD]
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Olympic Channel [UHD]" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="SPORTS", Olympic Channel [UHD]
@@ -1234,8 +1223,10 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RTV Sports" tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="SPORTS", RTV Sports
 http://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/super-sports-laliga.png"  group-title="SPORTS",Super Sports Laliga 
+http://bdiptv.net:8082/SUPERSPORTS-LALIGA/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sky Cricket HD" tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS", Sky Cricket HD
-http://93.152.174.144:4000/play/skysports2/index.m3u8
+http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Arena" tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS", Sky Sports Arena
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/18051
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football" tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS", Sky Sports Football
@@ -1321,11 +1312,11 @@ http://stream.accessnetbd.com/hls/sky12.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BDIPTV",T Sports(BDIPTV)
 http://bdiptv.net:8082/tsp/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ten Sports PK" tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS", Ten Sports PK
-http://103.159.4.38:9191/CH10-SP10/index.m3u8
+http://stream.amrbd.com:8082/Ten-Sports/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ten Sports PK" tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS", Ten Sports PK
 http://103.55.144.46/hls/ten.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Willow HD" tvg-logo="https://i.imgur.com/nOrLoWi.jpg" group-title="SPORTS", Willow HD
-http://43.230.123.21:8080/live/willow-cric.m3u8
+http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png" group-title="SPORTS", WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
 
@@ -1438,7 +1429,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227127/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo People" tvg-logo="https://s4.gifyu.com/images/imageab5309baa10a397c.png" group-title="DOCUMENTARY", Nat Geo People
 http://robi.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild" tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="DOCUMENTARY", Nat Geo Wild
-http://185.8.176.227:25461/strtester/ap8s9ndf709a8/58
+http://103.55.144.46/hls/wild.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild" tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="DOCUMENTARY", Nat Geo Wild
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/90
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NHK World Japan" tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="DOCUMENTARY", NHK World Japan
@@ -1452,7 +1443,7 @@ https://23.106.120.42:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RT Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="DOCUMENTARY", RT Documentary
 http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY BBC EARTH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/140px-Sony_BBC_Earth.png" group-title="DOCUMENTARY", SONY BBC EARTH HD
-http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54063
+http://bdiptv.net:8082/BBC-EARTH/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Style" tvg-logo="https://i.imgur.com/8VZNb9j.jpg" group-title="DOCUMENTARY", Style
 http://45.126.83.51/uq2663/h/h01/index.m3u8
 #EXTINF: -1 tvg-name="TLC" tvg-logo="https://i.imgur.com/5LsfS6h.png" group-title="DOCUMENTARY", TLC
