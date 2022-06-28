@@ -269,6 +269,8 @@ http://103.205.133.19/hls/chsj.m3u8
 http://103.55.144.46:80/hls/jalshamovies.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha Movies HD" tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA", Star Jalsha Movies HD
 http://208.86.19.13:81/617.stream/index.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha Movies HD" tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA", Star Jalsha Movies HD
+http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF: -1 tvg-name="Sun Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Logo_of_Sun_Bangla.jpg/200px-Logo_of_Sun_Bangla.jpg" group-title="BANGLA", Sun Bangla
 http://103.55.144.46:80/hls/sunbangla.m3u8
 #EXTINF: -1 tvg-name="Sun Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Logo_of_Sun_Bangla.jpg/200px-Logo_of_Sun_Bangla.jpg" group-title="BANGLA", Sun Bangla
