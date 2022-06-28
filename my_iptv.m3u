@@ -84,7 +84,7 @@ http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="BANGLA", Colors Bangla HD
 http://208.86.19.13:81/616.stream/index.m3u8
 #EXTINF: -1 tvg-name="Color Bangla FHD" tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA", Color Bangla FHD
-http://103.159.4.38:9191/CH25-INBD4/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD [IN] (1)" tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA", Colors Bangla HD [IN] (1)
 http://103.55.144.46:80/hls/colorsbangla.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/HYcWvd9.png",Colors Bangla Cinema
