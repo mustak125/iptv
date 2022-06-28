@@ -275,8 +275,8 @@ http://103.55.144.46:80/hls/sunbangla.m3u8
 http://208.86.19.13:81/903.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Varendra TV [BD]" tvg-logo="https://i.ibb.co/wQVJWSk/Varendra-TV.jpg" group-title="BANGLA", Varendra TV [BD]
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee 24 Ghanta [IN]" tvg-logo="https://i.imgur.com/SwcYRy3.png" group-title="BANGLA", Zee 24 Ghanta [IN]
-http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/108782
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA", Zee Bangla Cinema 
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA", Zee Bangla Cinema [IN]
 http://208.86.19.13:81/708.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN] (1)" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA", Zee Bangla Cinema [IN] (1)
