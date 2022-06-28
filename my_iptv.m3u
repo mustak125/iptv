@@ -87,7 +87,7 @@ http://208.86.19.13:81/616.stream/index.m3u8
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD [IN] (1)" tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA", Colors Bangla HD [IN] (1)
 http://103.55.144.46:80/hls/colorsbangla.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/HYcWvd9.png",Colors Bangla Cinema
+#EXTINF: -1 tvg-name="Color Bangla FHD" tvg-logo="https://imgur.com/HYcWvd9.png" group-title="BANGLA", Color Bangla Cinema
 http://103.55.144.46:80/hls/colore-bangla-cinema.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Cumilla 24 IPTV [BD]" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Cumilla24.jpeg" group-title="BANGLA", Cumilla 24 IPTV [BD]
 
@@ -172,8 +172,7 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 http://bdiptv.net:8082/Maasranga/index.m3u8?
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV HD [BD]" tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BANGLA", MAASRANGA TV HD [BD]
 http://103.55.144.46:80/hls/masranga.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Madani TV Bangla" tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="BANGLA", Madani TV Bangla
-http://45.249.187.238:8081/hls/new9.m3u8
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Magic Bangla IPTV [BD]" tvg-logo="https://i.imgur.com/vJ9h5AW.jpg" group-title="BANGLA", Magic Bangla IPTV [BD]
 http://enaniptv.com/magicbanglatv/1080/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Millenium IPTV [BD]" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mileninumTV.jpg?x91288" group-title="BANGLA", Millenium IPTV [BD]
@@ -1328,7 +1327,7 @@ http://103.55.144.46:80/hls/animalplanent.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY", ANIMAL PLANET HD
 https://nbn.chowdhury-shaheb.com/live/nb-animale_720p/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY", Animal Planet Hindi
-https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+http://10.252.253.254/hls/animalplanent.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Animal Planet Hindi" tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="DOCUMENTARY", Animal Planet Hindi
 http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54040
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC EARTH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOCUMENTARY", BBC EARTH
