@@ -1349,19 +1349,14 @@ https://nbn.chowdhury-shaheb.com/live/nb-discovery_720p/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Asia" tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY", Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery HD Bangla" tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY", Discovery HD Bangla
-http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8
+http://tv2.ebox.live:8080/live/discovery.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Hindi" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="DOCUMENTARY", Discovery Hindi
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="http://static.epg.best/au/DiscoveryScience.au.png" group-title="DOCUMENTARY", Discovery Science
-https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+http://103.55.144.46/hls/dis-science.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="http://static.epg.best/au/DiscoveryTurbo.au.png" group-title="DOCUMENTARY", Discovery Turbo
 https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DMAX" tvg-logo="https://i.imgur.com/qmvMUq6.png" group-title="DOCUMENTARY", DMAX
-http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Docurama" tvg-logo="https://i.imgur.com/wfJJvAO.jpg" group-title="DOCUMENTARY", Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Docurama" tvg-logo="https://i.imgur.com/wfJJvAO.jpg" group-title="DOCUMENTARY", Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fashion TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" group-title="DOCUMENTARY", Fashion TV
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FOOD FOOD" tvg-logo="https://i.imgur.com/y6uwpBZ.jpg" group-title="DOCUMENTARY", FOOD FOOD
