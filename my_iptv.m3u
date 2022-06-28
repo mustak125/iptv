@@ -179,9 +179,9 @@ http://enaniptv.com/magicbanglatv/1080/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Millenium IPTV [BD]" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mileninumTV.jpg?x91288" group-title="BANGLA", Millenium IPTV [BD]
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MOHONA TV [BD]" tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA", MOHONA TV [BD]
-http://208.86.19.13:81/681.stream/index.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MOHONA TV [BD]" tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA", MOHONA TV [BD]
-http://103.205.133.14/hls/mohonatv.m3u8
+http://208.86.19.13:81/681.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movie Bangla TV" tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BANGLA", Movie Bangla TV
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
@@ -194,7 +194,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nagorik TV" tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA", Nagorik TV
 http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NAGORIK TV [BD]" tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="BANGLA", NAGORIK TV [BD]
-http://103.205.133.14/hls/nagorik.m3u8
+http://bdiptv.net:8082/Nagorik-TV/index.m3u8
 #EXTINF:-1 ,News 18 Bengali (360p) [Not 24/7]
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?rebase=on&sd=10&checkedby:iptvcat.com
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="BANGLA", News 24
@@ -237,9 +237,9 @@ http://103.205.133.14/hls/ruposhibangla.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ruposhi Bangla [IN]" tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BANGLA", Ruposhi Bangla [IN]
 http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SA TV [BD]" tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA", SA TV [BD]
-http://208.86.19.13:81/613.stream/index.m3u8
+http://stream.amrbd.com:8082/SATV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SA TV HD [BD]" tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA", SA TV HD [BD]
-http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
+http://bdiptv.net:8082/SATV/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sangeet Bangla [IN]" tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BANGLA", Sangeet Bangla [IN]
 http://103.159.4.38:9191/CH27-INBD6/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SangeetBangla" tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="BANGLA", SangeetBangla
@@ -286,7 +286,7 @@ http://103.55.144.46:80/hls/zeebanglahd.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla HD
 http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla SD [IN]" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla 
-http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_Bangla&q=800&e=.m3u8
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF: -1 tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla
 http://208.86.19.13:81/906.stream/index.m3u8
 
