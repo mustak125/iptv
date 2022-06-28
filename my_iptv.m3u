@@ -58,11 +58,11 @@ http://103.106.2.152:13456/btv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BTV [BD]" tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="BANGLA", BTV [BD]
 http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="BANGLA", BTV World
-http://208.86.19.13:81/627.stream/index.m3u8
+http://103.106.2.152:13456/btv_world.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BTV WORLD [BD]" tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BANGLA", BTV WORLD [BD]
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA", Channel 24
-http://208.86.19.13:81/687.stream/index.m3u8
+http://bdiptv.net:8082/CHANNEL-24/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24 [BD]" tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="BANGLA", CHANNEL 24 [BD]
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 9 [BD]" tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA", CHANNEL 9 [BD]
