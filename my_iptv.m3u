@@ -216,7 +216,7 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Provashi Bangla IPTV [BD]" tvg-logo="https://i.imgur.com/Avbb36g.jpg?1" group-title="BANGLA", Provashi Bangla IPTV [BD]
 http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="R Plus Gold [IN]" tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="BANGLA", R Plus Gold [IN]
-https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
+http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="R Plus News [IN]" tvg-logo="https://i.imgur.com/w4iXw4C.jpg" group-title="BANGLA", R Plus News [IN]
 http://103.141.66.36/bpk-tv/10078/default/manifest.mpd?=m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RANG IPTV [BD]" tvg-logo="https://i.imgur.com/qVy4UdD.jpg" group-title="BANGLA", RANG IPTV [BD]
@@ -431,7 +431,7 @@ http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54118
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Maiboli" group-title="HINDI ENT.", Maiboli
 http://103.141.66.36/bpk-tv/10504/default/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MANORANJAN" tvg-logo="https://i.imgur.com/izPPP72.jpg" group-title="HINDI ENT.", MANORANJAN
-https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
+http://idvd.multitvsolution.com/idvo/manoranjantv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Manoranjan TV" tvg-logo="https://i.imgur.com/Qe37MM0.png" group-title="HINDI ENT.", Manoranjan TV
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/40
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MH1" tvg-logo="https://i.imgur.com/PnlSRKC.jpg" group-title="HINDI ENT.", MH1
@@ -441,7 +441,7 @@ http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MK Six" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png" group-title="HINDI ENT.", MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MK Six" tvg-logo="https://i.imgur.com/JEL1MNo.png" group-title="HINDI ENT.", MK Six
-https://streamitv.multitvsolution.in/idvo/mksix.m3u8
+http://idvd.multitvsolution.com/idvo/mksix.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MK TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/mk_tv_in.png" group-title="HINDI ENT.", MK TV
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/143569
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Polymar" tvg-logo="https://i.imgur.com/NXL6ftL.jpg" group-title="HINDI ENT.", Polymar
@@ -672,7 +672,7 @@ http://31.14.40.58:8080/GEMINIMOVIES_h264/index.m3u8
 #EXTINF: -1 tvg-name="Gym Bollywood" group-title="HINDI MOVIES", Gym Bollywood
 http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Housefull Movies" group-title="HINDI MOVIES", Housefull Movies
-https://streamitv.multitvsolution.in/idvo/housefullmovies.m3u8
+http://idvd.multitvsolution.com/idvo/housefullmovies.m3u8
 #EXTINF: -1 tvg-name="Cine Active" group-title="HINDI MOVIES", Cine Active
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/58
 #EXTINF: -1 tvg-name="Maa Movies" group-title="HINDI MOVIES", Maa Movies
@@ -1475,7 +1475,7 @@ http://103.55.144.46/hls/aljazeera.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="APN News" tvg-logo="https://edge01.iptv.digijadoo.net/static/apn_news.png" group-title="NEWS", APN News
 http://robi.iptv.digijadoo.net/live/apn_news/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC News" tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS", BBC News
-http://robi.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+http://103.55.144.46/hls/bbcworld.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC News (2)" tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS", BBC News (2)
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_bbcnews/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CBN News" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" group-title="NEWS", CBN News
@@ -1507,7 +1507,7 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="NEWS", DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DW TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/07/dwnews.jpg" group-title="NEWS", DW TV
-http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/chunks.m3u8
+http://bdiptv.net:8082/DW/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox News" tvg-logo="https://i.imgur.com/pu2mgFa.jpg" group-title="NEWS", Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="France 24" tvg-logo="https://i.imgur.com/R77S4T4.png" group-title="NEWS", France 24
