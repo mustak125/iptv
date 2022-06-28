@@ -402,7 +402,7 @@ https://somoy.appv.jagobd.com:444/somoy/nrb-eu.stream/playlist.m3u8
 
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
+http://208.86.19.13:81/703.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
 http://103.49.168.172:8081/ebox/in_and_tv_hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Tv HD" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & Tv HD
@@ -1405,6 +1405,8 @@ https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fashion TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" group-title="DOCUMENTARY", Fashion TV
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fashion TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" group-title="DOCUMENTARY", Fashion TV
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FOOD FOOD" tvg-logo="https://i.imgur.com/y6uwpBZ.jpg" group-title="DOCUMENTARY", FOOD FOOD
 http://14.199.164.20:4001/play/a0qx/index.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-name="Food Food" tvg-logo="https://i.imgur.com/y6uwpBZ.jpg" group-title="DOCUMENTARY", Food Food
@@ -1647,9 +1649,9 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Desi Channel" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg" group-title="MUSIC", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dhamaal" tvg-logo="https://i.imgur.com/Eptm0IX.jpg" group-title="MUSIC", Dhamaal
-https://live.hungama.com/linear/dhamaal/chunklist_b4128000.m3u8
+https://live.hungama.com/linear/dhamaal/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dil Se" tvg-logo="https://i.imgur.com/M3B5xDy.png" group-title="MUSIC", Dil Se
-https://live.hungama.com/linear/dil-se/chunklist_b4128000.m3u8
+https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DJing Classics" tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="MUSIC", DJing Classics
 https://www.djing.com/tv/classics.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DJing Hits" tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="MUSIC", DJing Hits
@@ -1671,7 +1673,7 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF: -1 tvg-name="Joo Tv" group-title="MUSIC", Joo Tv
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Kadak Hits" tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="MUSIC", Kadak Hits
-https://live.hungama.com/linear/kadak-hits/chunklist_b4128000.m3u8
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Kiss TV" tvg-logo="https://i.imgur.com/51dtVFB.jpg" group-title="MUSIC", Kiss TV
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Latido Music" tvg-logo="https://i.imgur.com/W2nBM9q.png" group-title="MUSIC", Latido Music
@@ -1724,6 +1726,9 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
 #EXTINF: -1 tvg-name="Pink Music" group-title="MUSIC", Pink Music
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/804
+#EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="MUSIC",pop pataka
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Portal Fox Mix" group-title="MUSIC", Portal Fox Mix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Power TV" group-title="MUSIC", Power TV
