@@ -244,6 +244,8 @@ http://208.86.19.13:81/906.stream/index.m3u8
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Alif IPTV [BD]" tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="BANGLA IPTV", Alif IPTV [BD]
 http://128.199.212.160/alif/1080/index.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgur.com/Pn02nKl.png",ALPONA TV
+https://tempskyview.jagobd.com:441/live-orgin/alponatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgpile.com/images/58J4A1.jpg",BANGLA 21 TV [BD]
 https://cdn.appv.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="71 Bangla TV" tvg-logo="https://i.ibb.co/2ngv3Y0/71-Bangla-TV.jpg" group-title="BANGLA IPTV", 71 Bangla TV
@@ -762,7 +764,7 @@ http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/17109
 http://103.141.66.36/bpk-tv/10313/default/manifest.mpd?=.m3u8
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max
-http://103.159.4.38:9191/CH32-IN-HIN4/index.m3u8
+http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max HD
