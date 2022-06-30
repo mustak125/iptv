@@ -158,7 +158,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NEWS 24 [BD]" tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="BANGLA", NEWS 24 [BD]
 http://stream.amrbd.com:8082/News24bd/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NTV [BD]" tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA", NTV [BD]
-http://208.86.19.13:81/652.stream/index.m3u8
+http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NTV [BD]" tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA", NTV [BD]
 https://nbn.chowdhury-shaheb.com/live/nk-ntv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BANGLA",36.Peace Tv Bangla
