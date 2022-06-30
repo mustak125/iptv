@@ -54,7 +54,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="BANGLA", BTV World
 http://103.106.2.152:13456/btv_world.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24 [BD]" tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="BANGLA", CHANNEL 24 [BD]
-http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+https://bd.jagobd.com:444/live-orgin/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA", Channel 24
 http://bdiptv.net:8082/CHANNEL-24/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 9 HD [BD]" tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA", CHANNEL 9 HD [BD]
@@ -156,7 +156,7 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?rebase
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="BANGLA", News 24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NEWS 24 [BD]" tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="BANGLA", NEWS 24 [BD]
-http://103.159.4.38:9191/CH16-BD5/index.m3u8
+http://stream.amrbd.com:8082/News24bd/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NTV [BD]" tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA", NTV [BD]
 http://208.86.19.13:81/652.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NTV [BD]" tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA", NTV [BD]
