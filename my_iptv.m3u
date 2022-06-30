@@ -536,7 +536,7 @@ http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Sab" tvg-logo="https://i.imgur.com/VjlrjwQ.jpg" group-title="HINDI ENT.", Sony Sab
 https://cdn.rangdhanu.live/SonySAB/video.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY SAB" tvg-logo="https://i.imgur.com/VjlrjwQ.jpg" group-title="HINDI ENT.", SONY SAB
-http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54062
+http://208.86.19.13:81/702.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Sab HD" tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.", Sony Sab HD
 https://load.airtel.tv/sonysab/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Wah" tvg-logo="https://s4.gifyu.com/images/image48139d60b1c93448.png" group-title="HINDI ENT.", Sony Wah
@@ -765,6 +765,8 @@ http://103.141.66.36/bpk-tv/10313/default/manifest.mpd?=.m3u8
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max
 http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max
+http://103.72.179.30:1935/HindiMovies/SONY_MAX.stream_720p/Playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max HD
@@ -1544,7 +1546,7 @@ http://robi.iptv.digijadoo.net/live/apn_news/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC News" tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS", BBC News
 http://103.55.144.46/hls/bbcworld.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC News (2)" tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS", BBC News (2)
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_bbcnews/chunks.m3u8
+http://ip2121.com:8081/live/bbc/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CBN News" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" group-title="NEWS", CBN News
 https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CBN News" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" group-title="NEWS", CBN News
