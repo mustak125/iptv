@@ -700,6 +700,8 @@ http://14.199.164.20:4001/play/a0tm/index.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=Enterr_10&q=1200&e=.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Enterr Ten" tvg-logo="https://s6.gifyu.com/images/image07b289bfcc961244.png" group-title="HINDI MOVIES", Enterr Ten
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/46
+#EXTINF:-1 tvg-logo="ext"group-title="HINDI MOVIES",Family Movies
+http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 #EXTINF: -1 tvg-name="Gemini Movie" group-title="HINDI MOVIES", Gemini Movie
 http://31.14.40.58:8080/GEMINIMOVIES_h264/index.m3u8
 #EXTINF: -1 tvg-name="Gym Bollywood" group-title="HINDI MOVIES", Gym Bollywood
@@ -818,7 +820,7 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/mundohd/tracks-v1a1/playlist.m3u8
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Flix" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH ENT.", & Flix
-http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="&f lix HD" tvg-logo="https://dreamdth.com/wp-content/uploads/2019/09/xplor-HD.jpg" group-title="ENGLISH ENT.", & flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH ENT.", & Flix HD
@@ -828,7 +830,7 @@ http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Prive HD (2)" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="ENGLISH ENT.", & Prive HD (2)
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-name="&xplor HD" group-title="ENGLISH ENT.", &xplor HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/107
+http://208.86.19.13:81/730.stream/index.m3u8
 
 #EXTINF: -1 tvg-name="A&E" group-title="ENGLISH ENT.", A&E
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/8608
@@ -1062,6 +1064,8 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Scream Fest" tvg-logo="https://i.imgur.com/sMVKTlt.png" group-title="ENGLISH MOVIES", Scream Fest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oUjHXpN"group-title="ENGLISH MOVIES",Show Time Ex
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Movies Action" tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="ENGLISH MOVIES", Sony Movies Action
 http://51.52.156.22:8888/http/009
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pix HD" tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="ENGLISH MOVIES", Sony Pix HD
@@ -1405,7 +1409,7 @@ https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/i
 #EXTINF: -1 tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="DOCUMENTARY", Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox life" tvg-logo="https://i.imgur.com/oi6c9gJ.png" group-title="DOCUMENTARY", Fox life
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FOX Life" tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="DOCUMENTARY", FOX Life
 http://103.135.208.14:80/ibox/bd/65
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox Life" tvg-logo="https://i.imgur.com/oi6c9gJ.png" group-title="DOCUMENTARY", Fox Life
@@ -1441,7 +1445,7 @@ http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-name="Living Foodz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Living-foodz-logo.jpg/200px-Living-foodz-logo.jpg" group-title="DOCUMENTARY", Living Foodz
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/84
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/250px-NASA_TV.svg.png" group-title="DOCUMENTARY", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="https://i.imgur.com/4duWidg.png" group-title="DOCUMENTARY", Nat Geo
@@ -1496,6 +1500,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 #EXTINF: -1 tvg-name="World Animal" group-title="DOCUMENTARY", World Animal
 http://203.154.243.32:8088/live/wanimal/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARY",Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="YTN Science" tvg-logo="https://i.imgur.com/VOo8xzE.jpg" group-title="DOCUMENTARY", YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
