@@ -228,7 +228,7 @@ http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF: -1 tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla
 http://208.86.19.13:81/906.stream/index.m3u8
 
-#EXTINF:-1 group-title="BD IPTV" tvg-logo="https://imgur.com/LNGJDc4.png",Amar Bangla
+#EXTINF: -1 tvg-name="Amar Bangla" tvg-logo="https://imgur.com/LNGJDc4.png" group-title="BANGLA", Amar Bangla
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Alif IPTV [BD]" tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="BANGLA IPTV", Alif IPTV [BD]
 http://128.199.212.160/alif/1080/index.m3u8
@@ -296,8 +296,6 @@ https://bdcast-live2.b-cdn.net/jago/1/live-orgin/millenniumtv-odr-up2.stream/chu
 http://208.86.19.13:81/502.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="",MQC TV
 http://208.86.19.13:81/517.stream/index.m3u8
-
-
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RANG IPTV [BD]" tvg-logo="https://i.imgur.com/qVy4UdD.jpg" group-title="BANGLA IPTV", RANG IPTV [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/live-orgin/rangiptv.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Royal TV [BD]" tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.jpg" group-title="BANGLA IPTV", Royal TV [BD]
@@ -312,7 +310,6 @@ http://nandansyst.com/hls/nandan.m3u8
 https://bd.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgpile.com/images/58Lm1P.jpg",NAN IPTV [BD]
 https://cdn.appv.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgur.com/l76jXPz.png",NEXUS TV
 https://nbn.chowdhury-shaheb.com/live/nk-nexustv2/chunks.m3u8
 #EXTINF: -1 tvg-name="NEXUS TV" tvg-logo="https://i.imgur.com/tQRMdCv.png" group-title="BANGLA IPTV", NEXUS TV
@@ -351,54 +348,12 @@ http://208.86.19.13:81/518.stream/index.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/times24tv.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Time TV USA [BD]" tvg-logo="https://timetvusa.com/images/ttv200.png" group-title="BANGLA IPTV", Time TV USA [BD]
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/live-orgin/timetvusa.stream/chunks.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TITAS TV [BD]" tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="BANGLA IPTV", TITAS TV [BD]
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgur.com/wMH3tLM.png",VOICE TV [BD]
-https://bd.jagobd.com:444/live-orgin/voicetv.stream/chunks.m3u8
-
-
-
-#EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgpile.com/images/58JwcS.jpg",VARENDRA TV
-https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgpile.com/images/58JwcS.jpg",VARENDRA TV
-https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
-
-
-
-
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgpile.com/images/58Y5x3.jpg",TV ONE UK
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/tvoneuksni.stream/chunks.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgpile.com/images/58JwcS.jpg",VARENDRA TV
+https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgur.com/wMH3tLM.png",VOICE TV [BD]
+https://bd.jagobd.com:444/live-orgin/voicetv.stream/chunks.m3u8
 
 
 
@@ -1042,10 +997,14 @@ http://103.55.144.46:80/hls/mnx-hd.m3u8
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/123
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies Kingdom" tvg-logo="https://i.imgur.com/s6mC4VE.png" group-title="ENGLISH MOVIES", Movies Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ENGLISH MOVIES",Movies Hub
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies Now" tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="ENGLISH MOVIES", Movies Now
 http://103.55.144.46:80/hls/movies-now.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies Now" tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES", Movies Now
 http://stream.amrbd.com:8082/Movies_Now_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qW9qTc1" group-title="ENGLISH MOVIES", Movie SPhere
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="My cinema" group-title="ENGLISH MOVIES", My cinema
 http://45.126.83.51/uq2663/h/h90/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ENGLISH MOVIES",Net-Max TV
@@ -1092,6 +1051,8 @@ http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="https://i.imgur.com/7OTbK2F.png" group-title="ENGLISH MOVIES", TNT
 http://cdnak10.cast4u.info/channels/3/10803.m3u8
+#EXTINF:-1 tvg-logo="ext"group-title="ENGLISH MOVIES",Wild Side
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WB Movies" tvg-logo="https://i.imgur.com/eWdROQp.png" group-title="ENGLISH MOVIES", WB Movies
 http://203.154.243.89:11205
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WB MOVIES" tvg-logo="https://i.imgur.com/eWdROQp.png" group-title="ENGLISH MOVIES", WB MOVIES
@@ -1434,6 +1395,8 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m
 http://robi.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hum Masala" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="DOCUMENTARY", Hum Masala
 http://103.135.208.14:80/ibox/bd/49
+#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARY",IN Wild
+https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="DOCUMENTARY", Investigation Discovery
 https://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="DOCUMENTARY", Investigation Discovery
