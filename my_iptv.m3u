@@ -790,11 +790,11 @@ http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF: -1 tvg-name="A&E" group-title="ENGLISH ENT.", A&E
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/8608
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Blue Ant Entertainment" tvg-logo="https://i.imgur.com/rYa4FjK.png" group-title="ENGLISH ENT.", Blue Ant Entertainment
-http://45.126.83.51/dr9445/h/h16/index.m3u8
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Blue Ant Entertainment" tvg-logo="https://i.imgur.com/Jw3soCz.png" group-title="ENGLISH ENT.", Blue Ant Entertainment
 http://45.126.83.51/dr9445/h/h16/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Blue Ant Extreme" tvg-logo="https://i.imgur.com/JJ2ipoh.png" group-title="ENGLISH ENT.", Blue Ant Extreme
-http://45.126.83.51/dr9445/h/h15/index.m3u8
+http://45.126.83.51/dr9445/h/h15/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Blue Ant Extreme" tvg-logo="https://i.imgur.com/g1pUWdH.jpg" group-title="ENGLISH ENT.", Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BritCom" tvg-logo="https://i.imgur.com/Gr1vLJm.jpg" group-title="ENGLISH ENT.", BritCom
@@ -914,7 +914,7 @@ https://nbn.chowdhury-shaheb.com/live/nb-axn_720p/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="AXN Asia" tvg-logo="https://i.imgur.com/g7KwMCf.png" group-title="ENGLISH MOVIES", AXN Asia
 http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="AXN Asia" tvg-logo="https://i.imgur.com/g7KwMCf.png" group-title="ENGLISH MOVIES", AXN Asia
-http://iptv.kitv.live:1935/live/Shari/MTV-P/42.m3u8
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CELESTIAL MOVIES" tvg-logo="https://i.imgur.com/X3aDsYK.jpg" group-title="ENGLISH MOVIES", CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="https://i.imgur.com/vf9TylP.jpg" group-title="ENGLISH MOVIES", Channel 9
@@ -925,10 +925,8 @@ https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mo
 http://210.210.155.35/uq2663/h/h04/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/NwVG8Dr.png" group-title="ENGLISH MOVIES", Cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="E!" tvg-logo="https://s4.gifyu.com/images/imageb9611374cd00855f.png" group-title="ENGLISH MOVIES", E!
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/7240
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Film 4" tvg-logo="https://i.imgur.com/5FgT60n.png" group-title="ENGLISH MOVIES", Film 4
-http://51.52.156.22:8888/http/008
+#EXTINF: -1 tvg-name="Cinema World" tvg-logo="" group-title="ENGLISH MOVIES", Cinema World
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox Action  Movie" tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="ENGLISH MOVIES", Fox Action  Movie
 http://live4.ocnttv.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FOX Action Movies (2)" tvg-logo="https://i.imgur.com/W8ZLWCE.png" group-title="ENGLISH MOVIES", FOX Action Movies (2)
@@ -1188,9 +1186,9 @@ http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/121
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Esport Club" tvg-logo="https://i.imgur.com/r5mrSTk.jpg" group-title="SPORTS", Esport Club
 http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fight Sports" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORTS", Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/220px-Fox_Sports_Logo.svg.png" group-title="SPORTS", Fox Sports 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/220px-Fox_Sports_Logo.svg.png" group-title="SPORTS", Fox Sports 2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/220px-Fox_Sports_Logo.svg.png" group-title="SPORTS", Fox Sports 3
@@ -1364,7 +1362,8 @@ https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 http://14.199.164.20:4001/play/a0qx/index.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-name="Food Food" tvg-logo="https://i.imgur.com/y6uwpBZ.jpg" group-title="DOCUMENTARY", Food Food
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/329
-
+#EXTINF:-1,iFood.tv
+https://ft-ifood-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="DOCUMENTARY", Food Network
 https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF: -1 tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="DOCUMENTARY", Food Network
