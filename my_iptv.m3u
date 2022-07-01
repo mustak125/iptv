@@ -434,10 +434,9 @@ http://103.55.144.46:80/hls/colore-tv-hd.m3u8
 http://stream.amrbd.com:8082/colorsindia/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="COLORS" tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="HINDI ENT.", COLORS
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors HD" tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="HINDI ENT.", Colors HD
-http://208.86.19.13:81/605.stream/index.m3u8
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Rishtey" tvg-logo="https://i.imgur.com/NF7kDmc.png" group-title="HINDI ENT.", Colors Rishtey
-http://iptv.mirrorace.net/?channelid=279
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="COLORS RISHTEY" tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="HINDI ENT.", COLORS RISHTEY
 http://randomserver.site:2086/Bria/Bria/94683
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dabaang" tvg-logo="https://i.imgur.com/wXSRiun.jpg" group-title="HINDI ENT.", Dabaang
@@ -502,16 +501,16 @@ https://load.airtel.tv/rajtv/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Shemaroo" tvg-logo="https://i.imgur.com/wOYB1nb.png" group-title="HINDI ENT.", Shemaroo
 http://14.199.164.20:4001/play/a0nh/index.m3u8?checkedby:iptvcat.com
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony HD" tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="HINDI ENT.", Sony HD
+http://103.55.144.46/hls/sonyen.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony" tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.", sony
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony 1" tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.", Sony
 http://221.120.204.4:80/SONY-HD-LOCKLE/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony HD" tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="HINDI ENT.", Sony HD
-http://103.55.144.46/hls/sonyen.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY HD" tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="HINDI ENT.", SONY HD
 http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pal" tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="HINDI ENT.", Sony Pal
-http://iptv.mirrorace.net/?channelid=474
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY PAL" tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="HINDI ENT.", SONY PAL
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/323
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Sab HD" tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.", Sony Sab HD
@@ -523,9 +522,7 @@ https://cdn.rangdhanu.live/SonySAB/video.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY SAB" tvg-logo="https://i.imgur.com/VjlrjwQ.jpg" group-title="HINDI ENT.", SONY SAB
 http://208.86.19.13:81/702.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Wah" tvg-logo="https://s4.gifyu.com/images/image48139d60b1c93448.png" group-title="HINDI ENT.", Sony Wah
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/180
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY WAH" tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="HINDI ENT.", SONY WAH
-https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Baharat HD" group-title="HINDI ENT.", Star Baharat HD
 http://208.86.19.13:81/721.stream/index.m3u8
 #EXTINF: -1 tvg-name="Star Baharat HD" group-title="HINDI ENT.", Star Baharat HD
@@ -534,45 +531,33 @@ http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Bharat" tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="HINDI ENT.", Star Bharat
 http://randomserver.site:2086/Bria/Bria/94673
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="HINDI ENT.", Star Plus
-http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="HINDI ENT.", Star Plus
-http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus HD" tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="HINDI ENT.", Star Plus HD
-http://208.86.19.13:81/607.stream/index.m3u8
+http://103.55.144.46/hls/starplus.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="HINDI ENT.", STAR PLUS HD
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="HINDI ENT.", Star Plus
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sun TV" group-title="HINDI ENT.", Sun TV
 https://load.airtel.tv/suntv/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-name="Sun TV" group-title="HINDI ENT.", Sun TV
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/3260
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="The Q" tvg-logo="https://i.imgur.com/ETVpGyf.png" group-title="HINDI ENT.", The Q
-https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="The Q India" tvg-logo="https://i.imgur.com/ETVpGyf.png" group-title="HINDI ENT.", The Q India
-https://amg1-i.akamaihd.net/hls/live/784034/Q001/playlist.m3u8?__nn__=5606168722001&hdnea=st=1566232200~exp=1566235800~acl=/hls/live/784034/Q001/*~hmac=4de929fdc0ee53199a11237ee75a695383a82a42623fa92c1376493e5fc91d7b
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="UTV HD" group-title="HINDI ENT.", UTV HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/76
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Anmol" tvg-logo="https://i.imgur.com/BZtBXQR.png" group-title="HINDI ENT.", Zee Anmol
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Anmol" tvg-logo="https://i.imgur.com/BZtBXQR.png" group-title="HINDI ENT.", Zee Anmol
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/578
-
-#EXTINF: -1 tvg-name="Zee Marthi" group-title="HINDI ENT.", Zee Marati
-http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54230
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Smile" tvg-logo="https://i.imgur.com/ms8e4DW.jpg" group-title="HINDI ENT.", Zee Smile
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Smile" tvg-logo="https://i.imgur.com/ms8e4DW.jpg" group-title="HINDI ENT.", Zee Smile
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/smileusa/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee TV CANADA" tvg-logo="https://i.imgur.com/lyT75II.jpg" group-title="HINDI ENT.", Zee TV CANADA
-http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV SD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV SD
+http://103.55.144.46/hls/zeetv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV HD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV HD
 http://208.86.19.13:81/606.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="HINDI ENT.", Zee TV HD
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV SD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV SD
-http://103.55.144.46:80/hls/zeetv.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV SD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV SD
-http://45.249.187.238:8081/hls/tsl-5.m3u8
+
 
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Aaj Entertainment" tvg-logo="https://i.imgur.com/OA762pM.png" group-title="PAK ENT.", Aaj Entertainment
@@ -996,7 +981,7 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FOX Movies" tvg-logo="https://i.imgur.com/EE9z3QX.jpg" group-title="ENGLISH MOVIES", FOX Movies
 http://ip2121.com:8081/live2/foxpre/playlist.m3u8
 #EXTINF: -1 tvg-name="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="ENGLISH MOVIES", HBO
-http://rstr0.teamnetwork.co/stream179/stream.m3u8
+http://ip2121.com:8081/live/hbo/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="ENGLISH MOVIES", HBO 
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="ENGLISH MOVIES", HBO HD
@@ -1061,6 +1046,8 @@ http://103.55.144.46:80/hls/movies-now.m3u8
 http://stream.amrbd.com:8082/Movies_Now_2/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="My cinema" group-title="ENGLISH MOVIES", My cinema
 http://45.126.83.51/uq2663/h/h90/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ENGLISH MOVIES",Net-Max TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="N TV movies" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" group-title="ENGLISH MOVIES", N TV movies
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF: -1 tvg-name="Pink Action" group-title="ENGLISH MOVIES", Pink Action
