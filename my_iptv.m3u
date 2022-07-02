@@ -828,7 +828,7 @@ http://46.60.1.82:8081/live5/Dubai.One/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dubai One" tvg-logo="https://i.imgur.com/MYMUv1h.jpg" group-title="ENGLISH ENT.", Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox" tvg-logo="https://i.imgur.com/xOKgf94.png" group-title="ENGLISH ENT.", Fox
-https://delivery.macan.live/stream/id_fox/index.m3u8?token=gratisan
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FOX" tvg-logo="https://i.imgur.com/JWYVCH1.png" group-title="ENGLISH ENT.", FOX
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox CRIME" tvg-logo="https://i.imgur.com/7DzgHtS.jpg" group-title="ENGLISH ENT.", Fox CRIME
@@ -1429,7 +1429,7 @@ http://robi.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild" tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="DOCUMENTARY", Nat Geo Wild
 http://103.55.144.46/hls/wild.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild" tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="DOCUMENTARY", Nat Geo Wild
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/90
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NHK World Japan" tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="DOCUMENTARY", NHK World Japan
 http://45.126.83.51/uq2663/h/h23/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NHK World Japan" tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="DOCUMENTARY", NHK World Japan
