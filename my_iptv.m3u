@@ -1001,6 +1001,8 @@ http://stream.amrbd.com:8082/Movies_Now_2/tracks-v1a1/mono.m3u8
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="My cinema" group-title="ENGLISH MOVIES", My cinema
 http://45.126.83.51/dr9445/h/h90/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ENGLISH MOVIES",My Time
+https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ENGLISH MOVIES",Net-Max TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="N TV movies" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" group-title="ENGLISH MOVIES", N TV movies
