@@ -657,6 +657,8 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Enterr_10&q=1200&e=.m3u8
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/46
 #EXTINF:-1 tvg-logo="ext"group-title="HINDI MOVIES",Family Movies
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/F0EIgi3.png" group-title="HINDI MOVIES",Fimachi
+https://epiconvh.s.llnwi.net/filamchi/master_1024.m3u8
 #EXTINF: -1 tvg-name="Gemini Movie" group-title="HINDI MOVIES", Gemini Movie
 http://31.14.40.58:8080/GEMINIMOVIES_h264/index.m3u8
 #EXTINF: -1 tvg-name="Gym Bollywood" group-title="HINDI MOVIES", Gym Bollywood
@@ -687,6 +689,8 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/34
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/17109
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sameroo" tvg-logo="https://i.imgur.com/bClqIpU.png" group-title="HINDI MOVIES", Sameroo
 http://103.141.66.36/bpk-tv/10313/default/manifest.mpd?=.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="showbox" tvg-logo="" group-title="HINDI MOVIES", showbox
+https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max HD
 http://103.55.144.46/hls/sony-maxhd.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max
