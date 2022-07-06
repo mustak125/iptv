@@ -878,7 +878,7 @@ http://87.117.234.107:1935/live/SPIKETV/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star World" tvg-logo="https://i.imgur.com/mmuxT5C.png" group-title="ENGLISH ENT.", Star World
 http://103.55.144.46:80/hls/star-worldhd.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="STAR WORLD" tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="ENGLISH ENT.", STAR WORLD
-http://103.135.208.14:80/ibox/bd/66
+http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star World HD" tvg-logo="https://i.imgur.com/mmuxT5C.png" group-title="ENGLISH ENT.", Star World HD
 http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54046
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="STAR WORLD HD [UAE]" tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="ENGLISH ENT.", STAR WORLD HD [UAE]
