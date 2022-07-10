@@ -647,9 +647,9 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Cineplex" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="HINDI MOVIES", Colors Cineplex
 http://103.55.144.46/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK (IN)" tvg-logo="" group-title="HINDI MOVIES",DHINCHAAK (IN)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Dhinchaak_2_logo_2022.jpg" group-title="HINDI MOVIES",DHINCHAAK (IN)
 http://14.199.164.20:4001/play/a0o5/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK 2 (IN)" tvg-logo="" group-title="HINDI MOVIES",DHINCHAAK 2 (IN)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK 2 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Dhinchaak_2_logo_2022.jpg" group-title="HINDI MOVIES",DHINCHAAK 2 (IN)
 http://14.199.164.20:4001/play/a0tm/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Enterr 10" tvg-logo="https://i.imgur.com/ZcCbm7a.png" group-title="HINDI MOVIES", Enterr 10
 http://103.139.171.5:5001/jiotvplus/live.php?c=Enterr_10&q=1200&e=.m3u8
