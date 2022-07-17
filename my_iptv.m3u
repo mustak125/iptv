@@ -359,12 +359,8 @@ https://bd.jagobd.com:444/live-orgin/voicetv.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
 http://208.86.19.13:81/703.stream/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
-http://103.49.168.172:8081/ebox/in_and_tv_hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Tv HD" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & Tv HD
-http://45.249.187.238:8081/hls/tsl-6.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV HD" tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="HINDI ENT.", & TV HD
-http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54089
+http://stream.serverbd247.com/hls/sky4.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ACV Utsav" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvutsaav.png" group-title="HINDI ENT.", ACV Utsav
 https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ACV Utsav Plus" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvplus.png" group-title="HINDI ENT.", ACV Utsav Plus
