@@ -1348,10 +1348,11 @@ http://tv2.ebox.live:8080/live/discovery.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Hindi" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="DOCUMENTARY", Discovery Hindi
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="http://static.epg.best/au/DiscoveryScience.au.png" group-title="DOCUMENTARY", Discovery Science
+http://bdiptv.net:8082/DISCOVERY-SCIENCE/index.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="http://static.epg.best/au/DiscoveryScience.au.png" group-title="DOCUMENTARY", Discovery Science
 http://103.55.144.46/hls/dis-science.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="http://static.epg.best/au/DiscoveryTurbo.au.png" group-title="DOCUMENTARY", Discovery Turbo
 https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
-
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fashion TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" group-title="DOCUMENTARY", Fashion TV
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fashion TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" group-title="DOCUMENTARY", Fashion TV
