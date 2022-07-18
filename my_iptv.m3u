@@ -544,7 +544,7 @@ https://playlive.goonj.pk/filmworldweb_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Filmax" tvg-logo="https://i.imgur.com/HKCvQAC.jpg" group-title="PAK ENT.", Filmax
 https://playlive.goonj.pk/filmaxweb_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Geo Entertainment" tvg-logo="https://i.imgur.com/CkJpbom.jpg" group-title="PAK ENT.", Geo Entertainment
-http://208.86.19.13:81/622.stream/index.m3u8
+http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Geo Kahini" tvg-logo="https://i.imgur.com/kR1tW0o.jpg" group-title="PAK ENT.", Geo Kahini
 http://216.144.250.174/Geo_Kahani_HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hum Sitaray" tvg-logo="https://i.imgur.com/O5NUuPl.jpg" group-title="PAK ENT.", Hum Sitaray
@@ -552,7 +552,7 @@ http://103.141.66.36/bpk-tv/10241/default/manifest.mpd?=.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HUM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="PAK ENT.", HUM TV
 http://208.86.19.13:81/611.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hum TV" tvg-logo="https://i.imgur.com/jysgKs7.png" group-title="PAK ENT.", Hum TV
-http://95.211.211.168/live/humtv0066/playlist.m3u8
+http://221.120.204.4/HUM-TV-LOCKLE/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HUMRAZ TV" tvg-logo="https://i.ytimg.com/vi/9ts2fLPAt7U/hqdefault.jpg" group-title="PAK ENT.", HUMRAZ TV
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Jalwa" tvg-logo="https://i.imgur.com/GRiJjs4.jpg" group-title="PAK ENT.", Jalwa
@@ -600,7 +600,7 @@ https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Toronto 360 TV (CA)" tvg-logo="https://i.imgur.com/Tl7iOAc.png" group-title="PAK ENT.", Toronto 360 TV (CA)
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Urdu 1" tvg-logo="https://i.imgur.com/Vhtughe.jpg" group-title="PAK ENT.", Urdu 1
-http://playlive.goonj.pk/urdu1web_480p/index.m3u8
+http://221.120.204.4/URDU-1-LOCKLE/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Urdu TV Toronto (CA)" tvg-logo="https://i.imgur.com/w82VmmO.png" group-title="PAK ENT.", Urdu TV Toronto (CA)
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zindagi TV" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="PAK ENT.", Zindagi TV
@@ -814,7 +814,7 @@ https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CNBC TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="ENGLISH ENT.", CNBC TV
 http://robi.iptv.digijadoo.net/live/cnbc/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Infinity" tvg-logo="https://i.imgur.com/HS9It3H.png" group-title="ENGLISH ENT.", Colors Infinity
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/140
+http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Infinity" tvg-logo="https://i.imgur.com/UolhqwU.png" group-title="ENGLISH ENT.", Colors Infinity
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54155
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="ENGLISH ENT.", Comedy Central
@@ -872,7 +872,7 @@ http://103.141.66.36/bpk-tv/10209/default/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Romedy Now" tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="ENGLISH ENT.", Romedy Now
 http://103.49.168.172:8081/ebox/in_romedy_now/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ROMEDY NOW" tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="ENGLISH ENT.", ROMEDY NOW
-https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RTP" tvg-logo="https://i.imgur.com/X6eZjUv.jpg" group-title="ENGLISH ENT.", RTP
 http://103.141.66.36/bpk-tv/10233/default/manifest.mpd
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RTP" tvg-logo="https://i.imgur.com/X6eZjUv.jpg" group-title="ENGLISH ENT.", RTP
@@ -1413,7 +1413,7 @@ http://45.126.83.51/uq2663/h/h28/index.m3u8
 http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-name="Living Foodz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Living-foodz-logo.jpg/200px-Living-foodz-logo.jpg" group-title="DOCUMENTARY", Living Foodz
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/84
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love nature
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love nature
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/250px-NASA_TV.svg.png" group-title="DOCUMENTARY", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
