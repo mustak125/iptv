@@ -385,7 +385,8 @@ http://103.55.144.46:80/hls/colore-tv-hd.m3u8
 http://stream.amrbd.com:8082/colorsindia/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="COLORS" tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="HINDI ENT.", COLORS
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="HINDI ENT.",COLORS TAMIL
+https://yuppcatchup.akamaized.net/preview/colorstamil/1800.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Rishtey" tvg-logo="https://i.imgur.com/NF7kDmc.png" group-title="HINDI ENT.", Colors Rishtey
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="COLORS RISHTEY" tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="HINDI ENT.", COLORS RISHTEY
@@ -472,8 +473,6 @@ http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/playlist.m3u8
 https://cdn.rangdhanu.live/SonySAB/video.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY SAB" tvg-logo="https://i.imgur.com/VjlrjwQ.jpg" group-title="HINDI ENT.", SONY SAB
 http://208.86.19.13:81/702.stream/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Wah" tvg-logo="https://s4.gifyu.com/images/image48139d60b1c93448.png" group-title="HINDI ENT.", Sony Wah
-
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Baharat HD" group-title="HINDI ENT.", Star Baharat HD
 http://208.86.19.13:81/721.stream/index.m3u8
 #EXTINF: -1 tvg-name="Star Baharat HD" group-title="HINDI ENT.", Star Baharat HD
@@ -490,7 +489,7 @@ http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sun TV" group-title="HINDI ENT.", Sun TV
-https://load.airtel.tv/suntv/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+https://yuppcatchup.akamaized.net/preview/suntvhd/master.m3u8 
 #EXTINF: -1 tvg-name="Sun TV" group-title="HINDI ENT.", Sun TV
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/3260
 
@@ -508,7 +507,8 @@ http://103.55.144.46/hls/zeetv.m3u8
 http://208.86.19.13:81/606.stream/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="HINDI ENT.", Zee TV HD
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
-
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="HINDI ENT.", Zee TAMIL
+https://yuppcatchup.akamaized.net/preview/zeetamil/master.m3u8
 
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Aaj Entertainment" tvg-logo="https://i.imgur.com/OA762pM.png" group-title="PAK ENT.", Aaj Entertainment
@@ -721,6 +721,8 @@ https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF: -1 tvg-name="Star Gold Select HD" group-title="HINDI MOVIES", Star Gold Select HD
 https://nbn.chowdhury-shaheb.com/live/star-gold-select_720p/chunks.m3u8
+#EXTINF:-1tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/surya-movies-logo.jpg" group-title="HINDI MOVIES",SURYA MOVIES 
+https://yuppcatchup.akamaized.net/preview/suryamovies/1800.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://imgur.com/nDLjaDL.png",Utv Action
 http://103.55.144.46:80/hls/utvaction.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Utv Action" group-title="HINDI MOVIES", Utv Action
@@ -1708,8 +1710,9 @@ http://103.141.66.36/bpk-tv/10334/default/index.m3u8
 https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_lq.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Steel Bird Music FHD" tvg-logo="https://i.imgur.com/ijBDV01.png" group-title="MUSIC", Steel Bird Music FHD
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF: -1 tvg-name="Sun Music" group-title="MUSIC", Sun Music
-http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54138
+EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-music-HD-white.png" group-title="MUSIC", Sun Music
+https://catchup.yuppcdn.net/amazonv2/20/preview/sunmusichd/master/master.m3u8
+http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="UK Music Box" group-title="MUSIC", UK Music Box
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="V2 Beat TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/V2BEATTV.png" group-title="MUSIC", V2 Beat TV
