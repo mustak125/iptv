@@ -410,9 +410,9 @@ http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF: -1 tvg-name="Gemini Tv" group-title="HINDI ENT.", Gemini Tv
 https://load.airtel.tv/geminitv/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-name="Jaya max" group-title="HINDI ENT.", Jaya max
-https://load.airtel.tv/jayamax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-#EXTINF: -1 tvg-name="Jaya Plus" group-title="HINDI ENT.", Jaya Plus
-https://load.airtel.tv/jayaplus/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayamax/master/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="HINDI ENT.", JAYA Tv
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayatv/master/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="K TV" group-title="HINDI ENT.", K TV
 https://load.airtel.tv/ktv/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Kairali Tv" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kairali_in.png" group-title="HINDI ENT.", Kairali Tv
@@ -665,6 +665,10 @@ http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u
 http://idvd.multitvsolution.com/idvo/housefullmovies.m3u8
 #EXTINF: -1 tvg-name="Cine Active" group-title="HINDI MOVIES", Cine Active
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/58
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kbo-black.png" group-title="HINDI MOVIES", KBO
+ https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dqi1sh8.png" group-title="HINDI MOVIES", KBO CLASSIC
+https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
 #EXTINF: -1 tvg-name="Maa Movies" group-title="HINDI MOVIES", Maa Movies
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54143
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Maha Movie" tvg-logo="https://i.imgur.com/fAYvAQK.png" group-title="HINDI MOVIES", Maha Movie
