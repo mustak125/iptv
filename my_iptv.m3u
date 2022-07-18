@@ -1634,7 +1634,7 @@ http://14.199.164.20:4001/play/a0p3/index.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Jhanjar Music" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="MUSIC", Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF: -1 tvg-name="Joo Tv" group-title="MUSIC", Joo Tv
-https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
+https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Kadak Hits" tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="MUSIC", Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Kiss TV" tvg-logo="https://i.imgur.com/51dtVFB.jpg" group-title="MUSIC", Kiss TV
