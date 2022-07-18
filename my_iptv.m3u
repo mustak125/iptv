@@ -172,7 +172,7 @@ http://stream.amrbd.com:8082/RTV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RTV Music" tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="BANGLA", RTV Music
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ruposhi Bangla" tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="BANGLA", Ruposhi Bangla
-http://103.205.133.14/hls/ruposhibangla.m3u8
+https://yuppcatchup.akamaized.net/preview/rupashibangala/1800.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ruposhi Bangla [IN]" tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BANGLA", Ruposhi Bangla [IN]
 http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SA TV [BD]" tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA", SA TV [BD]
