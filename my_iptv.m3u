@@ -22,7 +22,7 @@ https://cdn.rangdhanu.live/ATNMusic/video.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="BANGLA", ATN News
 http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN NEWS [BD]" tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="BANGLA", ATN NEWS [BD]
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bangla 21 IPTV [BD]" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x91288" group-title="BANGLA", Bangla 21 IPTV [BD]
 https://cdn.appv.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bangla Talkies [IN]" tvg-logo="https://i.imgur.com/QOadxzR.png" group-title="BANGLA", Bangla Talkies [IN]
