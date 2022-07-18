@@ -607,10 +607,10 @@ http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 
 
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Abzy Movie" tvg-logo="https://i.imgur.com/TCRYibC.png" group-title="HINDI MOVIES", Abzy Movie
-https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Abazy Cool" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3uT7xYd2VHIbOTWMQcwjQqBE3nXyPcwTbSQ&usqp=CAU" group-title="HINDI MOVIES", Abazy Cool
+https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ABZY MOVIES" tvg-logo="https://i.imgur.com/TCRYibC.png" group-title="HINDI MOVIES", ABZY MOVIES
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/669
+https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
 #EXTINF: -1 tvg-name="ACV Movies" group-title="HINDI MOVIES", ACV Movies
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63276
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="And Picture" tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES", And Picture
@@ -623,10 +623,10 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgu" group-title="HINDI MOVIES", Bhojpuri Cinema
 http://14.199.164.20:4001/play/a0rj/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,B4U Bhojpuri (576p) [Not 24/7]
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Bhojpuri group-title="HINDI MOVIES", B4U Bhojpuri
 http://14.199.164.20:4001/play/a0nq/index.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="HINDI MOVIES", B4U Kadak
-http://103.139.171.5:5001/jiotvplus/live.php?c=B4U_Kadak&q=800&e=junk.m3u8
+https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="HINDI MOVIES", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Movies" tvg-logo="https://i.imgur.com/MhSG4sc.png" group-title="HINDI MOVIES", B4U Movies
