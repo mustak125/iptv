@@ -619,6 +619,8 @@ http://103.55.144.46/hls/andpictures.m3u8
 https://nbn.chowdhury-shaheb.com/live/nb-npictures_720p/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="And Pictures HD" tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES", And Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3P1x6WgDzInpCt466pWaJFtzi06U73oz2Ig&usqp=CAU" group-title="HINDI MOVIES", BBO
+https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgu" group-title="HINDI MOVIES", Bhojpuri Cinema
 http://14.199.164.20:4001/play/a0rj/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,B4U Bhojpuri (576p) [Not 24/7]
