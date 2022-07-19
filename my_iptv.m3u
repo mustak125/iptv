@@ -1591,8 +1591,8 @@ http://14.199.164.20:4001/play/a0pc/index.m3u8?checkedby:iptvcat.com
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF: -1 tvg-name="Gemini Music" group-title="MUSIC", Gemini Music
 http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54132
-#EXTINF: -1 tvg-name="Hit Music" group-title="MUSIC", Hit Music
-http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",Hits 360 TV 
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF: -1 tvg-name="I Love" group-title="MUSIC", I Love
 http://14.199.164.20:4001/play/a0p3/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Jhanjar Music" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="MUSIC", Jhanjar Music
@@ -1605,8 +1605,8 @@ https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Latido Music" tvg-logo="https://i.imgur.com/W2nBM9q.png" group-title="MUSIC", Latido Music
 https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="m2o" tvg-logo="https://i.imgur.com/fKNvyOm.png?1" group-title="MUSIC", m2o
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="m2" tvg-logo="https://i.imgur.com/fKNvyOm.png?1" group-title="MUSIC", m2
+http://live.m2.tv/hls3/stream.m3u8
 #EXTINF: -1 tvg-name="MAD" group-title="MUSIC", MAD
 http://p.dtv.sx:80/live/visiontv/775142/19809.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MH 1" tvg-logo="https://i.imgur.com/W8qIZmQ.jpg" group-title="MUSIC", MH 1
