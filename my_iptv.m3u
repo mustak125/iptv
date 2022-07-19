@@ -624,7 +624,7 @@ https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgu" group-title="HINDI MOVIES", Bhojpuri Cinema
 http://14.199.164.20:4001/play/a0rj/index.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Bhojpuri group-title="HINDI MOVIES", B4U Bhojpuri
-http://14.199.164.20:4001/play/a0nq/index.m3u8?checkedby:iptvcat.com
+http://14.199.164.20:4001/play/a0nq/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="HINDI MOVIES", B4U Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="HINDI MOVIES", B4U Kadak
@@ -1564,7 +1564,7 @@ http://103.141.66.36/bpk-tv/10285/default/index.m3u8
 
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="1HD Music" tvg-logo="https://i.imgur.com/bV2qCVq.png" group-title="MUSIC", 1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+https://sc.id-tv.kz/1hd.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="30A Music" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="MUSIC", 30A Music
 https://30a-tv.com/music.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="4Fun TV" group-title="MUSIC", 4Fun TV
@@ -1576,9 +1576,9 @@ http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="8X Music" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="MUSIC", 8x Music
 http://stariptv.top:2086/00/00/16264
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="9x Jalwa" tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="MUSIC", 9x Jalwa
-http://103.141.66.36/bpk-tv/10283/default/index.m3u8
+http://14.199.164.20:4001/play/a0nc/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="9x Jhakaas" tvg-logo="https://i.imgur.com/82CxYOo.jpg" group-title="MUSIC", 9x Jhakaas
-http://103.141.66.36/bpk-tv/10141/default/index.m3u8
+http://14.199.164.20:4001/play/a0mx/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="9x Tashan" tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="MUSIC", 9x Tashan
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="9XM" tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC", 9XM
@@ -1615,10 +1615,6 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3
 https://live.hungama.com/linear/dhamaal/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dil Se" tvg-logo="https://i.imgur.com/M3B5xDy.png" group-title="MUSIC", Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DJing Classics" tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="MUSIC", DJing Classics
-https://www.djing.com/tv/classics.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DJing Hits" tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="MUSIC", DJing Hits
-https://www.djing.com/tv/hits.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="E24" tvg-logo="https://i.imgur.com/AEWPtCE.jpg" group-title="MUSIC", E24
 http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="E24" tvg-logo="https://i.imgur.com/AEWPtCE.jpg" group-title="MUSIC", E24
@@ -1629,8 +1625,8 @@ http://104.237.60.234/live/gabruutv.m3u8
 http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54132
 #EXTINF: -1 tvg-name="Hit Music" group-title="MUSIC", Hit Music
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 ,I Love (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0p3/index.m3u8?checkedby:iptvcat.com
+#EXTINF: -1 tvg-name="I Love" group-title="MUSIC", I Love
+http://14.199.164.20:4001/play/a0p3/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Jhanjar Music" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="MUSIC", Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF: -1 tvg-name="Joo Tv" group-title="MUSIC", Joo Tv
@@ -1707,7 +1703,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ROCK TV" tvg-logo="https://i.imgur.com/tZZWF6Q.jpg" group-title="MUSIC", ROCK TV
 http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RU.TV" tvg-logo="https://i.imgur.com/0ujfLYr.png" group-title="MUSIC", RU.TV
-https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sangeet Marathi" tvg-logo="https://i.imgur.com/8GYDctq.jpg" group-title="MUSIC", Sangeet Marathi
 http://103.141.66.36/bpk-tv/10334/default/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Šlágr" tvg-logo="https://1gr.cz/fotky/idnes/18/073/c460/MH_917918_327.png" group-title="MUSIC", Šlágr
@@ -1727,6 +1723,8 @@ http://robi.iptv.digijadoo.net/live/vh1/chunks.m3u8
 http://103.135.208.14:80/ibox/bd/107
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Vh1 india" group-title="MUSIC", Vh1 india
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.dw.com/image/1246912_4.jpg" group-title="MUSIC", VIVA Music 
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee ETC" tvg-logo="https://i.imgur.com/CrvJkdS.png" group-title="MUSIC", Zee ETC
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/579
 
