@@ -1606,7 +1606,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Channel V HD" tvg-logo="https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo.jpeg" group-title="MUSIC", Channel V HD
 http://45.126.83.51/qwr9ew/s/s41/https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b450000.m3u8.m3u8
 #EXTINF: -1 tvg-id="California Music Channel(CMTV)-US" tvg-name="CMC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/California_Music_Channel_Logo.png/220px-California_Music_Channel_Logo.png" group-title="MUSIC", CMC TV
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CMC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/California_Music_Channel_Logo.png/220px-California_Music_Channel_Logo.png" group-title="MUSIC", CMC TV
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Desi Channel" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg" group-title="MUSIC", Desi Channel
