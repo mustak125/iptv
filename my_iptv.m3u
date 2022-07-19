@@ -1304,7 +1304,7 @@ http://103.55.144.46:80/hls/bbcearth.m3u8
 #EXTINF: -1 tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOCUMENTARY", BBC Earth
 https://nbn.chowdhury-shaheb.com/live/nb-bbcearth_720p/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC Lifestyle" tvg-logo="https://s4.gifyu.com/images/image1806468102e0d742.png" group-title="DOCUMENTARY", BBC Lifestyle
-http://robi.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC Lifestyle" tvg-logo="https://i.imgur.com/uofhcTE.jpg" group-title="DOCUMENTARY", BBC Lifestyle
 http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CGTN Documentary" group-title="DOCUMENTARY", CGTN Documentary
