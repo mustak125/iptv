@@ -12,7 +12,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ASIAN TV [BD]" tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BANGLA", ASIAN TV [BD]
 http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA", ATN Bangla
-https://bd.jagobd.com:444/live-orgin/atnbd-8-org.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN BANGLA [BD]" tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="BANGLA", ATN BANGLA [BD]
 http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN Music [BD]" tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="BANGLA", ATN Music [BD]
@@ -32,7 +32,7 @@ https://bd.jagobd.com:444/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bangla TV" tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA", Bangla TV
 http://10.16.100.245/hindi/b@ngla_tv_1stop.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA", Banglavision
-https://bd.jagobd.com:444/live-orgin/banglav000.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BANGLA VISION [BD]" tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA", BANGLA VISION [BD]
 http://stream.amrbd.com:8082/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BIJOY TV [BD]" tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="BANGLA", BIJOY TV [BD]
@@ -40,7 +40,7 @@ http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BIJOY TV [BD]" tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="BANGLA", BIJOY TV [BD]
 http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV [BD]" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA", BOISHAKHI TV [BD]
-https://bd.jagobd.com:444/live-orgin/boishakhitv-org.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA", BOISHAKHI TV
 http://stream.amrbd.com:8082/Boishakhi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="BANGLA",Boishakhi Plus(bd)
@@ -166,7 +166,7 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="R Plus Gold [IN]" tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="BANGLA", R Plus Gold [IN]
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RTV [BD]" tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA", RTV [BD]
-https://bd.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA", RTV
 http://stream.amrbd.com:8082/RTV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RTV Music" tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="BANGLA", RTV Music
