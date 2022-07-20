@@ -360,7 +360,7 @@ https://bd.jagobd.com:444/live-orgin/voicetv.stream/chunks.m3u8
 
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
-http://208.86.19.13:81/703.stream/index.m3u8
+http://103.179.246.243:8000/play/a01u
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Tv HD" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & Tv HD
 http://stream.serverbd247.com/hls/sky4.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ACV Utsav" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvutsaav.png" group-title="HINDI ENT.", ACV Utsav
@@ -390,7 +390,7 @@ http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="HINDI ENT.",COLORS TAMIL
 https://yuppcatchup.akamaized.net/preview/colorstamil/1800.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Rishtey" tvg-logo="https://i.imgur.com/NF7kDmc.png" group-title="HINDI ENT.", Colors Rishtey
-
+http://103.179.246.243:8000/play/a03i
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="COLORS RISHTEY" tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="HINDI ENT.", COLORS RISHTEY
 http://randomserver.site:2086/Bria/Bria/94683
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dabaang" tvg-logo="https://i.imgur.com/wXSRiun.jpg" group-title="HINDI ENT.", Dabaang
@@ -606,7 +606,7 @@ http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63276
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="And Picture" tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES", And Picture
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="And Picture HD" tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES", And Picture HD
-https://nbn.chowdhury-shaheb.com/live/nb-npictures_720p/chunks.m3u8
+http://103.179.246.243:8000/play/a017
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="And Pictures HD" tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES", And Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3P1x6WgDzInpCt466pWaJFtzi06U73oz2Ig&usqp=CAU" group-title="HINDI MOVIES", BBO
@@ -632,7 +632,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BOX CINEMA" tvg-logo="https://i.imgur.com/S3lVg3i.jpg?1" group-title="HINDI MOVIES", BOX CINEMA
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Cineplex" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="HINDI MOVIES", Colors Cineplex
-http://208.86.19.13:81/735.stream/index.m3u8
+http://103.179.246.243:8000/play/a04h
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Cineplex" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="HINDI MOVIES", Colors Cineplex
 http://103.55.144.46/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Dhinchaak_2_logo_2022.jpg" group-title="HINDI MOVIES",DHINCHAAK (IN)
@@ -773,13 +773,13 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/mundohd/tracks-v1a1/playlist.m3u8
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Flix" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH ENT.", & Flix
-
+http://103.179.246.243:8000/play/a00p
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="&f lix HD" tvg-logo="https://dreamdth.com/wp-content/uploads/2019/09/xplor-HD.jpg" group-title="ENGLISH ENT.", & flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH ENT.", & Flix HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/54
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Prive HD (1)" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="ENGLISH ENT.", & Prive HD (1)
-http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+http://103.179.246.243:8000/play/a01d
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Prive HD (2)" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="ENGLISH ENT.", & Prive HD (2)
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-name="&xplor HD" group-title="ENGLISH ENT.", &xplor HD
@@ -854,11 +854,11 @@ http://103.55.144.46:80/hls/star-worldhd.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="STAR WORLD" tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="ENGLISH ENT.", STAR WORLD
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star World HD" tvg-logo="https://i.imgur.com/mmuxT5C.png" group-title="ENGLISH ENT.", Star World HD
-http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54046
+http://103.179.246.243:8000/play/a00b
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="STAR WORLD HD [UAE]" tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="ENGLISH ENT.", STAR WORLD HD [UAE]
 http://mag.123tv.to:8080/Daananavisis/ixXIWrgFBZ/9259
 #EXTINF: -1 tvg-name="Star World Premier" group-title="ENGLISH ENT.", Star World Premier
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/23
+http://103.179.246.243:8000/play/a00a
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TBN Asia" tvg-logo="https://i.imgur.com/l1ItE8H.png" group-title="ENGLISH ENT.", TBN Asia
 http://45.126.83.51/dr9445/s/s39/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TRT World" tvg-logo="https://i.imgur.com/YWceLs7.png" group-title="ENGLISH ENT.", TRT World
@@ -868,7 +868,7 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/ZbGgNde.png" group-title="ENGLISH ENT.", Warner TV
 http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cafe" tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="ENGLISH ENT.", Zee Cafe
-https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
+http://103.179.246.243:8000/play/a00t
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cafe HD" tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="ENGLISH ENT.", Zee Cafe HD
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cafe HD (1)" tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="ENGLISH ENT.", Zee Cafe HD (1)
@@ -916,8 +916,8 @@ http://ip2121.com:8081/live/hbo/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="ENGLISH MOVIES", HBO 
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="ENGLISH MOVIES", HBO HD
-http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/5699
-#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.imgur.com/p5doERm.png",HBO Family
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.imgur.com/p5doERm.png", HBO Family
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hits (1)" tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="ENGLISH MOVIES", Hits (1)
 http://210.210.155.35/dr9445/h/h37/01.m3u8
@@ -962,11 +962,11 @@ https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_142
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MN+" tvg-logo="https://i.imgur.com/56cCBrY.png" group-title="ENGLISH MOVIES", MN+
 http://103.55.144.46:80/hls/mn+.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MN+ HD" tvg-logo="https://i.imgur.com/56cCBrY.png" group-title="ENGLISH MOVIES", MN+ HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/38.m3u8
+http://103.179.246.243:8000/play/a00u
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MNX" tvg-logo="https://s4.gifyu.com/images/image8c255c8f4e981429.png" group-title="ENGLISH MOVIES", MNX
 http://103.55.144.46:80/hls/mnx-hd.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MNX" tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="ENGLISH MOVIES", MNX
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/123
+http://103.179.246.243:8000/play/a01h
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies Kingdom" tvg-logo="https://i.imgur.com/s6mC4VE.png" group-title="ENGLISH MOVIES", Movies Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ENGLISH MOVIES",Movies Hub
@@ -1004,17 +1004,17 @@ http://51.52.156.22:8888/http/009
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pix HD" tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="ENGLISH MOVIES", Sony Pix HD
 http://103.55.144.46:80/hls/sonypixhd.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="ENGLISH MOVIES", Sony Pix
-http://103.194.169.115:25461/1E5mc4ZUha/5TTeiw5UAL/54057?play_token=eyiNZ5SJw0&token=GRdRWUpbQV9BVQwCUAJbU1VXClEEU1cHBgFVBFQAAQVSB1gAAQoFAAARFEQQFxAGVQxnD1YVCVQHU1EFHEFNQgdHZlFdEVlHUgoMUldVVEEYQ0wPX1IRWwJWXQUEUgwJVgEVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
+http://103.179.246.243:8000/play/a016
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="ENGLISH MOVIES", Sony Pix
 http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF: -1 tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="ENGLISH MOVIES", Star Movies HD
 http://103.55.144.46:80/hls/starmovies.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES", Star Movies
-http://43.230.123.21:8080/live/star-movies.m3u8
+http://103.179.246.243:8000/play/a00v
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Movies HD [IN]" tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="ENGLISH MOVIES", Star Movies HD [IN]
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/Jl8gccd.jpg" group-title="ENGLISH MOVIES", Star Movies Select HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/24
+http://103.179.246.243:8000/play/a00w
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/Jl8gccd.jpg" group-title="ENGLISH MOVIES", Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF: -1 tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/Jl8gccd.jpg" group-title="ENGLISH MOVIES", Star Movies Select HD
@@ -1296,7 +1296,7 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY", ANIMAL PLANET
 http://103.55.144.46:80/hls/animalplanent.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY", ANIMAL PLANET HD
-https://nbn.chowdhury-shaheb.com/live/nb-animale_720p/chunks.m3u8
+http://103.179.246.243:8000/play/a011
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY", Animal Planet Hindi
 http://10.252.253.254/hls/animalplanent.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Animal Planet Hindi" tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="DOCUMENTARY", Animal Planet Hindi
@@ -1360,7 +1360,7 @@ http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="History 2" tvg-logo="https://i.imgur.com/e79kg1L.png" group-title="DOCUMENTARY", History 2
 http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/5619
 #EXTINF: -1 tvg-name="History Hindi" tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="DOCUMENTARY", History Hindi
-http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54004
+http://103.179.246.243:8000/play/a013
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="History TV HD" tvg-logo="https://s6.gifyu.com/images/image029be7097122b523.png" group-title="DOCUMENTARY", History TV HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/83
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="History TV Hindi" tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="DOCUMENTARY", History TV Hindi
