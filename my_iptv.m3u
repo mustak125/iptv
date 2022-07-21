@@ -759,7 +759,7 @@ http://45.126.83.51/dr9445/h/h15/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Infinity" tvg-logo="https://i.imgur.com/HS9It3H.png" group-title="ENGLISH ENT.", Colors Infinity
 http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Infinity" tvg-logo="https://i.imgur.com/UolhqwU.png" group-title="ENGLISH ENT.", Colors Infinity
-http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54155
+http://103.179.246.243:8000/play/a01b
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="ENGLISH ENT.", Comedy Central
 http://iptv.mirrorace.net/?channelid=1157
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://s4.gifyu.com/images/image2bcd83435de6f114.png" group-title="ENGLISH ENT.", Comedy Central
@@ -804,10 +804,6 @@ http://51.52.156.22:8888/http/007
 http://103.49.168.172:8081/ebox/in_romedy_now/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ROMEDY NOW" tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="ENGLISH ENT.", ROMEDY NOW
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RTP" tvg-logo="https://i.imgur.com/X6eZjUv.jpg" group-title="ENGLISH ENT.", RTP
-http://103.141.66.36/bpk-tv/10233/default/manifest.mpd
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RTP" tvg-logo="https://i.imgur.com/X6eZjUv.jpg" group-title="ENGLISH ENT.", RTP
-http://45.126.83.51/dr9445/s/s38/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Spike TV" tvg-logo="https://i.imgur.com/GGs09Uf.png" group-title="ENGLISH ENT.", Spike TV
 http://87.117.234.107:1935/live/SPIKETV/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star World" tvg-logo="https://i.imgur.com/mmuxT5C.png" group-title="ENGLISH ENT.", Star World
@@ -820,34 +816,21 @@ http://103.179.246.243:8000/play/a00b
 http://mag.123tv.to:8080/Daananavisis/ixXIWrgFBZ/9259
 #EXTINF: -1 tvg-name="Star World Premier" group-title="ENGLISH ENT.", Star World Premier
 http://103.179.246.243:8000/play/a00a
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TBN Asia" tvg-logo="https://i.imgur.com/l1ItE8H.png" group-title="ENGLISH ENT.", TBN Asia
-http://45.126.83.51/dr9445/s/s39/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TRT World" tvg-logo="https://i.imgur.com/YWceLs7.png" group-title="ENGLISH ENT.", TRT World
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="VoA TV" tvg-logo="https://i.imgur.com/53N0NTK.png" group-title="ENGLISH ENT.", VoA TV
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voa.stream/live-orgin/voa.stream/chunks.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/ZbGgNde.png" group-title="ENGLISH ENT.", Warner TV
-http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cafe" tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="ENGLISH ENT.", Zee Cafe
 http://103.179.246.243:8000/play/a00t
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cafe HD" tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="ENGLISH ENT.", Zee Cafe HD
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cafe HD (1)" tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="ENGLISH ENT.", Zee Cafe HD (1)
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-#EXTINF: -1 tvg-name="Zee Living" group-title="ENGLISH ENT.", Zee Living
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/6554
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee World" tvg-logo="https://i.imgur.com/CvPt8fD.png" group-title="ENGLISH ENT.", Zee World
-http://tv.flametv.design/zeee.m3u8?c=world&e=.m3u8
 
 
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="24 Box TV" tvg-logo="https://i.imgur.com/HGmC8ea.png" group-title="ENGLISH MOVIES", 24 Box TV
-http://51.158.190.97/hls/stream.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="24 Box TV" tvg-logo="https://i.imgur.com/HGmC8ea.png" group-title="ENGLISH MOVIES", 24 Box TVhttp://51.158.190.97/hls/stream.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="AlFajer MOVIE" tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="ENGLISH MOVIES", AlFajer MOVIE
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="https://i.imgur.com/ShERgVn.png" group-title="ENGLISH MOVIES", AMC
-https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="AXN" tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="ENGLISH MOVIES", AXN
-http://210.210.155.35:80/dr9445/h/h141/02.m3u8 
+http://103.55.144.46/hls/axn.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="AXN" tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="ENGLISH MOVIES", AXN
 https://nbn.chowdhury-shaheb.com/live/nb-axn_720p/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="AXN Asia" tvg-logo="https://i.imgur.com/g7KwMCf.png" group-title="ENGLISH MOVIES", AXN Asia
@@ -866,10 +849,6 @@ http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox Action  Movie" tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="ENGLISH MOVIES", Fox Action  Movie
 http://live4.ocnttv.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FOX Action Movies (2)" tvg-logo="https://i.imgur.com/W8ZLWCE.png" group-title="ENGLISH MOVIES", FOX Action Movies (2)
-http://103.135.208.14:80/live/ibox/bd/136.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox Movie" tvg-logo="https://i.imgur.com/EE9z3QX.jpg" group-title="ENGLISH MOVIES", Fox Movie
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FOX Movies" tvg-logo="https://i.imgur.com/EE9z3QX.jpg" group-title="ENGLISH MOVIES", FOX Movies
 http://ip2121.com:8081/live2/foxpre/playlist.m3u8
 #EXTINF: -1 tvg-name="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="ENGLISH MOVIES", HBO
@@ -878,13 +857,13 @@ http://ip2121.com:8081/live/hbo/playlist.m3u8
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="ENGLISH MOVIES", HBO HD
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.imgur.com/p5doERm.png", HBO Family
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x821.png", HBO HITS
+http://stream.serverbd247.com/hls/sky3.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hits (1)" tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="ENGLISH MOVIES", Hits (1)
 http://210.210.155.35/dr9445/h/h37/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hits (2)" tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="ENGLISH MOVIES", Hits (2)
 http://45.126.83.51/dr9445/h/h37/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hallmark Movies & More" tvg-logo=" group-title="ENGLISH MOVIES", Hallmark Movies & More 
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hallmark Movies & More" tvg-logo="https://image.xumo.com/v1/channels/channel/99991709/300x300.png?type=smartCast_channelTile" group-title="ENGLISH MOVIES", Hallmark Movies & More 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ifilm" tvg-logo="https://i.imgur.com/GsJ0Nw3.jpg" group-title="ENGLISH MOVIES", Ifilm
@@ -899,18 +878,6 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 http://103.135.208.14:80/ibox/bd/69
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MBC 2 FHD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="ENGLISH MOVIES", MBC 2 FHD
 http://103.55.144.46:80/hls/dhin.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="ENGLISH MOVIES", MBC 2 HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MBC Action FHD" tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES", MBC Action FHD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MBC Action HD" tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES", MBC Action HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MBC MAX FHD" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES", MBC MAX FHD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MBC MAX HD" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES", MBC MAX HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MGM SciFi" tvg-logo="https://i.imgur.com/WSFsCqx.jpg" group-title="ENGLISH MOVIES", MGM SciFi
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MN+" tvg-logo="https://i.imgur.com/56cCBrY.png" group-title="ENGLISH MOVIES", MN+
 http://103.55.144.46:80/hls/mn+.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MN+ HD" tvg-logo="https://i.imgur.com/56cCBrY.png" group-title="ENGLISH MOVIES", MN+ HD
@@ -939,16 +906,6 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="N TV movies" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" group-title="ENGLISH MOVIES", N TV movies
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
-#EXTINF: -1 tvg-name="Pink Action" group-title="ENGLISH MOVIES", Pink Action
-http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/833
-#EXTINF: -1 tvg-name="Pink Premium" group-title="ENGLISH MOVIES", Pink Premium
-http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/798
-#EXTINF: -1 tvg-name="Pink Romance" group-title="ENGLISH MOVIES", Pink Romance
-http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/796
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Rai Movie" group-title="ENGLISH MOVIES", Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Rai Premium" group-title="ENGLISH MOVIES", Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Scream Fest" tvg-logo="https://i.imgur.com/sMVKTlt.png" group-title="ENGLISH MOVIES", Scream Fest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oUjHXpN"group-title="ENGLISH MOVIES",Show Time Ex
@@ -959,8 +916,6 @@ http://51.52.156.22:8888/http/009
 http://103.55.144.46:80/hls/sonypixhd.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="ENGLISH MOVIES", Sony Pix
 http://103.179.246.243:8000/play/a016
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="ENGLISH MOVIES", Sony Pix
-http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF: -1 tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="ENGLISH MOVIES", Star Movies HD
 http://103.55.144.46:80/hls/starmovies.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES", Star Movies
@@ -977,16 +932,9 @@ http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54026
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="THRILL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="ENGLISH MOVIES", THRILL HD
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="https://i.imgur.com/7OTbK2F.png" group-title="ENGLISH MOVIES", TNT
-http://cdnak10.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1 tvg-logo="ext"group-title="ENGLISH MOVIES",Wild Side
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WB Movies" tvg-logo="https://i.imgur.com/eWdROQp.png" group-title="ENGLISH MOVIES", WB Movies
-http://203.154.243.89:11205
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WB MOVIES" tvg-logo="https://i.imgur.com/eWdROQp.png" group-title="ENGLISH MOVIES", WB MOVIES
-http://iptv.mirrorace.net/?channelid=834
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Z Classic" tvg-logo="https://i.imgur.com/cYP18gp.png" group-title="ENGLISH MOVIES", Z Classic
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/animax.png",103. ANIMAX
 http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
@@ -1300,7 +1248,7 @@ http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FOX Life" tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="DOCUMENTARY", FOX Life
 http://103.135.208.14:80/ibox/bd/65
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox Life" tvg-logo="https://i.imgur.com/oi6c9gJ.png" group-title="DOCUMENTARY", Fox Life
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/126
+http://103.179.246.243:8000/play/a01t
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FYI TV 18" tvg-logo="https://i.imgur.com/BlQG8Yn.jpg" group-title="DOCUMENTARY", FYI TV 18
 http://robi.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FYI TV18" tvg-logo="https://s4.gifyu.com/images/image495361b76fa00b2b.png" group-title="DOCUMENTARY", FYI TV18
