@@ -746,9 +746,8 @@ http://103.179.246.243:8000/play/a01d
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-name="&xplor HD" group-title="ENGLISH ENT.", &xplor HD
 http://208.86.19.13:81/730.stream/index.m3u8
-
 #EXTINF: -1 tvg-name="A&E" group-title="ENGLISH ENT.", A&E
-http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/8608
+http://dam.feenyx.xyz:80/EWtt8xqW7H/BypD7nGybX/639?play_token=QFwmmJg3KT&token=T0FcVRVYF1xAVVBdCVUEVgUHVFADAlIBC1ZWCgVUXVZXUVEBBwBTUgFAThpLQEFWVltuDVFBDFMKXR8bExJdE2sKUBZcEgFRWlFAFBpAWl5SFAtVA1YDVQxXBQhSTRoRXQcWDkQCB1RbWkAUGlFLR1JEXwVZPFIATw1QXERbVhRYDxgWCV5qAgcPA1ZcFgkRBhQdRlwQRkcDCkZVCk0aA10XRlUSVRdcQFdQCwwWHxFUWUQKQRFPRwNGZmpETRoETBdRWhVZWghAWEBMSxYfEV5FbhZQEEIXXAVeXBRDAkMEQRgWC1FNOQENDFZdV0daWFhCRg9BB0cVRl5WCAhMDkY8RF0CEg9EUFBQDg4WTg==
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Blue Ant Entertainment" tvg-logo="https://i.imgur.com/rYa4FjK.png" group-title="ENGLISH ENT.", Blue Ant Entertainment
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Blue Ant Entertainment" tvg-logo="https://i.imgur.com/Jw3soCz.png" group-title="ENGLISH ENT.", Blue Ant Entertainment
@@ -885,18 +884,9 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 http://210.210.155.35/dr9445/h/h37/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hits (2)" tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="ENGLISH MOVIES", Hits (2)
 http://45.126.83.51/dr9445/h/h37/index.m3u8
-#EXTINF:-1 ,Hallmark Movies & More (720p)
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hallmark Movies & More" tvg-logo=" group-title="ENGLISH MOVIES", Hallmark Movies & More 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Hollywood TV" tvg-logo="https://i.imgur.com/I8z4JXN.jpg" group-title="ENGLISH MOVIES", Hollywood TV
-http://live4.ocnttv.com:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky Cinema Man HD
-http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/239
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky Cinema Thriller HD
-http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/241
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky cinema Premier HD
-http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/234
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="ENGLISH MOVIES",Sky Cinema Hits HD
-http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/235
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ifilm" tvg-logo="https://i.imgur.com/GsJ0Nw3.jpg" group-title="ENGLISH MOVIES", Ifilm
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
 #EXTINF: -1 tvg-name="KIX" tvg-logo="https://i.imgur.com/xr6RwMC.png" group-title="ENGLISH MOVIES", KIX
@@ -939,6 +929,8 @@ http://103.55.144.46:80/hls/movies-now.m3u8
 http://stream.amrbd.com:8082/Movies_Now_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qW9qTc1" group-title="ENGLISH MOVIES", Movie SPhere
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qW9qTc1" group-title="ENGLISH MOVIES", Movie SPhere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="My cinema" group-title="ENGLISH MOVIES", My cinema
 http://45.126.83.51/dr9445/h/h90/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ENGLISH MOVIES",My Time
@@ -1259,14 +1251,10 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8
 http://103.55.144.46:80/hls/animalplanent.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY", ANIMAL PLANET HD
 http://103.179.246.243:8000/play/a011
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY", Animal Planet Hindi
-http://10.252.253.254/hls/animalplanent.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Animal Planet Hindi" tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="DOCUMENTARY", Animal Planet Hindi
-http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54040
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC EARTH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOCUMENTARY", BBC EARTH
 http://103.55.144.46:80/hls/bbcearth.m3u8
 #EXTINF: -1 tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOCUMENTARY", BBC Earth
-https://nbn.chowdhury-shaheb.com/live/nb-bbcearth_720p/chunks.m3u8
+http://103.179.246.243:8000/play/a015
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC Lifestyle" tvg-logo="https://s4.gifyu.com/images/image1806468102e0d742.png" group-title="DOCUMENTARY", BBC Lifestyle
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC Lifestyle" tvg-logo="https://i.imgur.com/uofhcTE.jpg" group-title="DOCUMENTARY", BBC Lifestyle
@@ -1280,7 +1268,7 @@ https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8?fluxustv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Diccovary" tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="DOCUMENTARY", Diccovary
 http://103.55.144.46:80/hls/discovery.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovary HD Hindi" tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="DOCUMENTARY", Discovary HD Hindi
-https://nbn.chowdhury-shaheb.com/live/nb-discovery_720p/chunks.m3u8
+http://103.179.246.243:8000/play/a00y
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Asia" tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY", Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery HD Bangla" tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY", Discovery HD Bangla
@@ -1292,7 +1280,7 @@ http://bdiptv.net:8082/DISCOVERY-SCIENCE/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="http://static.epg.best/au/DiscoveryScience.au.png" group-title="DOCUMENTARY", Discovery Science
 http://103.55.144.46/hls/dis-science.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="http://static.epg.best/au/DiscoveryTurbo.au.png" group-title="DOCUMENTARY", Discovery Turbo
-https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
+	http://103.179.246.243:8000/play/a01l
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fashion TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" group-title="DOCUMENTARY", Fashion TV
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fashion TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" group-title="DOCUMENTARY", Fashion TV
@@ -1352,7 +1340,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="https://i.imgur.com/4duWidg.png" group-title="DOCUMENTARY", Nat Geo
 http://103.55.144.46:80/hls/ngohd.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="https://i.imgur.com/4duWidg.png" group-title="DOCUMENTARY", Nat Geo
-ttps://nbn.chowdhury-shaheb.com/live/nb-natgwild_720p/chunks.m3u8
+http://103.179.246.243:8000/play/a00x
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Dubai" tvg-logo="https://i.imgur.com/4duWidg.png" group-title="DOCUMENTARY", Nat Geo Dubai
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo HD" tvg-logo="https://i.imgur.com/4duWidg.png" group-title="DOCUMENTARY", Nat Geo HD
@@ -1361,10 +1349,7 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo India" tvg-logo="https://i.imgur.com/4duWidg.png" group-title="DOCUMENTARY", Nat Geo India
 http://103.141.66.36/bpk-tv/10061/default/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NAT GEO PEOPLE" tvg-logo="https://i.imgur.com/5adlvsI.png" group-title="DOCUMENTARY", NAT GEO PEOPLE
-http://103.47.132.164/PLTV/88888888/224/3221227127/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo People" tvg-logo="https://s4.gifyu.com/images/imageab5309baa10a397c.png" group-title="DOCUMENTARY", Nat Geo People
-http://robi.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild" tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="DOCUMENTARY", Nat Geo Wild
 http://103.55.144.46/hls/wild.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild" tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="DOCUMENTARY", Nat Geo Wild
@@ -1388,7 +1373,7 @@ http://103.55.144.46/hls/tlc.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TLC HD English" tvg-logo="https://i.imgur.com/5LsfS6h.png" group-title="DOCUMENTARY", TLC HD English
 http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TLC Hindi" tvg-logo="https://i.imgur.com/2oEJ80x.png" group-title="DOCUMENTARY", TLC Hindi
-https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
+http://103.179.246.243:8000/play/a027
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Travel TV" tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="DOCUMENTARY", Travel TV
 http://stariptv.top:2086/00/00/19768
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Travel TV" tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="DOCUMENTARY", Travel TV
