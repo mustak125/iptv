@@ -793,13 +793,15 @@ http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/5794
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/fdWRJeC.png" group-title="ENGLISH ENT.", Indosiar
 http://45.126.83.51/qwr9ew/s/s04/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="itv" tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="ENGLISH ENT.", itv
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+http://45.153.35.210:8000/play/UK_itv_sd/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="itv2" tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="ENGLISH ENT.", itv2
-http://51.52.156.22:8888/http/005
+http://45.153.35.210:8000/play/a01w/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="itv3" tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="ENGLISH ENT.", itv3
-http://51.52.156.22:8888/http/006
+http://45.153.35.210:8000/play/a01z/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="itv4" tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="ENGLISH ENT.", itv4
-http://51.52.156.22:8888/http/007
+http://45.153.35.210:8000/play/a01y/index.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ITVBe" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ8nBmgzLLc1sITgJ2KKFaLLByQgse5xKqLR6o6hw=s900-c-k-c0x00ffffff-no-rj" group-title="ENGLISH ENT.",ITVBe
+http://45.153.35.210:8000/play/a01x/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Romedy Now" tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="ENGLISH ENT.", Romedy Now
 http://103.49.168.172:8081/ebox/in_romedy_now/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ROMEDY NOW" tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="ENGLISH ENT.", ROMEDY NOW
