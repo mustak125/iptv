@@ -756,6 +756,12 @@ http://45.126.83.51/dr9445/h/h16/01.m3u8
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Blue Ant Extreme" tvg-logo="https://i.imgur.com/g1pUWdH.jpg" group-title="ENGLISH ENT.", Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8
+EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Channel 4" tvg-logo="https://assets-corporate.channel4.com/_flysystem/s3/styles/widescreen_cropped/s3/2019-02/All4-Press-270219-1.jpg?itok=X95hZEid" group-title="ENGLISH ENT.", Channel 4
+http://45.153.35.210:8000/play/UK_channel_4_sd/index.m3u8
+EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Channel 5" tvg-logo="https://pbs.twimg.com/profile_images/1234780494161743873/BiyFf-y7_400x400.jpg" group-title="ENGLISH ENT.", Channel 5
+http://45.153.35.210:8000/play/a00l/index.m3u8
+EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="E4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/E4_Logo.png" group-title="ENGLISH ENT.", E4
+http://45.153.35.210:8000/play/UK_e4_sd/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Infinity" tvg-logo="https://i.imgur.com/HS9It3H.png" group-title="ENGLISH ENT.", Colors Infinity
 http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Infinity" tvg-logo="https://i.imgur.com/UolhqwU.png" group-title="ENGLISH ENT.", Colors Infinity
@@ -766,10 +772,6 @@ http://iptv.mirrorace.net/?channelid=1157
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63518
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Docu Box HD" tvg-logo="https://s4.gifyu.com/images/imageba417323908a089f.png" group-title="ENGLISH ENT.", Docu Box HD
 http://livecdnh3.tvanywhere.ae/hls/docubox/index.m3u8?fluxustv.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DOVE" tvg-logo="http://i.imgur.com/5gJlGte.jpg" group-title="ENGLISH ENT.", DOVE
-https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dove channel" tvg-logo="http://i.imgur.com/5gJlGte.jpg" group-title="ENGLISH ENT.", Dove channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dubai One" tvg-logo="https://i.imgur.com/MYMUv1h.jpg" group-title="ENGLISH ENT.", Dubai One
 http://46.60.1.82:8081/live5/Dubai.One/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dubai One" tvg-logo="https://i.imgur.com/MYMUv1h.jpg" group-title="ENGLISH ENT.", Dubai One
@@ -849,6 +851,8 @@ https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mo
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/NwVG8Dr.png" group-title="ENGLISH MOVIES", Cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Film4" tvg-logo="https://yt3.ggpht.com/44U_XJoIujrMoU_T0AA6kHDg5CMQzY9vSXz1G0nQx8kjGpzkMM5ec6kM0FBYkou3ZmpqAnUJ2A=s900-c-k-c0x00ffffff-no-rj" group-title="ENGLISH MOVIES", Film4
+http://45.153.35.210:8000/play/UK_film4_sd/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox Action  Movie" tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="ENGLISH MOVIES", Fox Action  Movie
 http://live4.ocnttv.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FOX Movies" tvg-logo="https://i.imgur.com/EE9z3QX.jpg" group-title="ENGLISH MOVIES", FOX Movies
