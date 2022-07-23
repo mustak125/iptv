@@ -735,7 +735,8 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/mundohd/tracks-v1a1/playlist.m3u8
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Flix" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH ENT.", & Flix
-http://103.179.246.243:8000/play/a00p
+#http://103.179.246.243:8000/play/a00p
+#http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34503?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="&f lix HD" tvg-logo="https://dreamdth.com/wp-content/uploads/2019/09/xplor-HD.jpg" group-title="ENGLISH ENT.", & flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH ENT.", & Flix HD
