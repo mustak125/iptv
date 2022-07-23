@@ -760,8 +760,6 @@ EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Channel 4" tvg-logo="https://assets-co
 http://45.153.35.210:8000/play/UK_channel_4_sd/index.m3u8
 EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Channel 5" tvg-logo="https://pbs.twimg.com/profile_images/1234780494161743873/BiyFf-y7_400x400.jpg" group-title="ENGLISH ENT.", Channel 5
 http://45.153.35.210:8000/play/a00l/index.m3u8
-EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="E4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/E4_Logo.png" group-title="ENGLISH ENT.", E4
-http://45.153.35.210:8000/play/UK_e4_sd/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Infinity" tvg-logo="https://i.imgur.com/HS9It3H.png" group-title="ENGLISH ENT.", Colors Infinity
 http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Infinity" tvg-logo="https://i.imgur.com/UolhqwU.png" group-title="ENGLISH ENT.", Colors Infinity
@@ -776,6 +774,8 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/index.m3u8?fluxustv.m3u8
 http://46.60.1.82:8081/live5/Dubai.One/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dubai One" tvg-logo="https://i.imgur.com/MYMUv1h.jpg" group-title="ENGLISH ENT.", Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
+EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="E4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/E4_Logo.png" group-title="ENGLISH ENT.", E4
+http://45.153.35.210:8000/play/UK_e4_sd/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox" tvg-logo="https://i.imgur.com/xOKgf94.png" group-title="ENGLISH ENT.", Fox
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FOX" tvg-logo="https://i.imgur.com/JWYVCH1.png" group-title="ENGLISH ENT.", FOX
